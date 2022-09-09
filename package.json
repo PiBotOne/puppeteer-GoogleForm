@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@supercharge/strings": "^1.28.0",
+    "excel4node": "^1.8.0",
+    "puppeteer": "^17.1.2",
+    "xlsx": "^0.18.5"
+  }
+}
