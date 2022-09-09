@@ -51,55 +51,57 @@ const puppeteer = require('puppeteer');
 
         console.log(data);
 
-        /**
-         * Create tab/page instance
-        */
-        const page = await browser.newPage();
-
-        /**
-         * Add URL webpage here
-            * If login to portal needs to be automated as well (considering session timeouts/cookie clear/etc) add login page url here
-         */
-        await page.goto('https://docs.google.com/forms/d/1HhFqnAGUXfyNBTaf1-Th9Bg_sIgOQ8wnXsgEn9VVkd4/viewform?edit_requested=true&fbzx=-2911377340662628813');
-
-        /**
-         * Filling up the name field
-         */
-        const [nameInput] = await page.$x('//div[contains(@role, "listitem") and contains(., "Name")]//input');
-        if(nameInput) {
-            await nameInput.click({clickCount:3});
-            await nameInput.type(value.Name);
-            await page.screenshot({path: 'debugScreenNameInput.png'});
-        }
-
-        /**
-         * Attempting to update radio button selection
-         */
-        // const selectedOption = 0;
-        // const [targetRadioInput] = await page.$x('//div[contains(@role, "listitem") and contains(., "Field 1")]//div//div[2]//div[1]//div//div//div[' + selectedOption + ']');
-        // if(targetRadioInput) {
-        //     await targetRadioInput.hover();
-        //     const radioInputClickArea = await targetRadioInput.$('label');
-        //     await radioInputClickArea.click();
-        //     await page.screenshot({path: 'debugScreenRadioInput.png'});
-        // }
-
-        await page.close();
-
-        /**
-         * Clicking Submit button
-         */
-        // const [submitButton] = await page.$x('//span[contains(., "Submit")]');
-        // // await submitButton.click();
-        // await Promise.all([
-        //     page.waitForNavigation({waitUntil: 'networkidle2'}), // The promise resolves after navigation has finished
-        //     submitButton.click() // Clicking the link will indirectly cause a navigation
-        // ]);
-
-        /**
-         *  Grab that screen! Works great for debugging.
-         */
-        // await page.screenshot({path: 'debugScreen.png'});
+        data.forEach(async (value, index) => {
+            /**
+             * Create tab/page instance
+            */
+            const page = await browser.newPage();
+    
+            /**
+             * Add URL webpage here
+                * If login to portal needs to be automated as well (considering session timeouts/cookie clear/etc) add login page url here
+             */
+            await page.goto('https://docs.google.com/forms/d/1HhFqnAGUXfyNBTaf1-Th9Bg_sIgOQ8wnXsgEn9VVkd4/viewform?edit_requested=true&fbzx=-2911377340662628813');
+    
+            /**
+             * Filling up the name field
+             */
+            const [nameInput] = await page.$x('//div[contains(@role, "listitem") and contains(., "Name")]//input');
+            if(nameInput) {
+                await nameInput.click({clickCount:3});
+                await nameInput.type(value.Name);
+                await page.screenshot({path: 'debugScreenNameInput.png'});
+            }
+    
+            /**
+             * Attempting to update radio button selection
+             */
+            // const selectedOption = 0;
+            // const [targetRadioInput] = await page.$x('//div[contains(@role, "listitem") and contains(., "Field 1")]//div//div[2]//div[1]//div//div//div[' + selectedOption + ']');
+            // if(targetRadioInput) {
+            //     await targetRadioInput.hover();
+            //     const radioInputClickArea = await targetRadioInput.$('label');
+            //     await radioInputClickArea.click();
+            //     await page.screenshot({path: 'debugScreenRadioInput.png'});
+            // }
+    
+            await page.close();
+    
+            /**
+             * Clicking Submit button
+             */
+            // const [submitButton] = await page.$x('//span[contains(., "Submit")]');
+            // // await submitButton.click();
+            // await Promise.all([
+            //     page.waitForNavigation({waitUntil: 'networkidle2'}), // The promise resolves after navigation has finished
+            //     submitButton.click() // Clicking the link will indirectly cause a navigation
+            // ]);
+    
+            /**
+             *  Grab that screen! Works great for debugging.
+             */
+            // await page.screenshot({path: 'debugScreen.png'});
+        });
 
     }).catch((err) => {
         console.log(err);
