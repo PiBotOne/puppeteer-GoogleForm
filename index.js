@@ -56,7 +56,6 @@ const puppeteer = require('puppeteer');
          */
         // data.forEach(async (value, index) => {
         for(let i = 0; i < data.length; i++) {
-            console.log(i);
             /**
              * Create tab/page instance
              */
@@ -140,7 +139,7 @@ const puppeteer = require('puppeteer');
             /**
              *  Grab that screen after success! Works great for debugging.
              */
-            await page.screenshot({ type: 'jpeg', path: 'success_' + i + '.jpeg', fullPage: true });
+            // await page.screenshot({ type: 'jpeg', path: 'success_' + i + '.jpeg', fullPage: true });
 
             /**
              * Remove tab/page instance
