@@ -1,7 +1,8 @@
 class createExcel {
-    constructor(fileName, properties) {
-        this.fileName = fileName;
+    constructor(fileNameTemplate, properties, data) {
+        this.fileNameTemplate = fileNameTemplate;
         this.properties = properties;
+        this.data = data;
 
         var excel = require('excel4node');
         this.workbook = new excel.Workbook();
@@ -12,8 +13,6 @@ class createExcel {
                 size: 12
             }
         });
-
-        this.str = require('@supercharge/strings');
     }
     getOption() {
         var min = 1;
@@ -23,42 +22,41 @@ class createExcel {
         );
     }
     writeExcel() {
+        let data = this.data;
         var worksheet = this.workbook.addWorksheet('Sheet 1');
 
-        let i = 1;
+        worksheet.cell(1, 1).string('id').style(this.style);
+        worksheet.cell(1, 2).string('type').style(this.style);
+        worksheet.cell(1, 3).string('error').style(this.style);
+        worksheet.cell(1, 4).string('screenshot').style(this.style);
 
-        worksheet.cell(i, 1).string('Name').style(this.style);
-        worksheet.cell(i, 2).string('Field 1').style(this.style);
-        worksheet.cell(i, 3).string('Field 2').style(this.style);
-        worksheet.cell(i, 4).string('Field 3').style(this.style);
-        worksheet.cell(i, 5).string('Field 4').style(this.style);
-        worksheet.cell(i, 6).string('Field 5').style(this.style);
+        for (let i = 0; i < data.length; i++) {
+            let rowNumber = i + 2;
+            worksheet.cell(rowNumber, 1).string(data[i].id).style(this.style);
 
-        for (i = 2; i <= 401; i++) {
-            worksheet.cell(i, 1).string(this.str.random(50)).style(this.style);
+            worksheet.cell(rowNumber, 2).string(data[i].type).style(this.style);
 
-            worksheet.cell(i, 2).number(this.getOption()).style(this.style);
-
-            const selectedCount = this.getOption();
-            let selectedOptions = new Array();
-            for (let j = 0; j < selectedCount; j++) {
-                const option = this.getOption();
-                if (selectedOptions.indexOf(option) !== -1) {
-                    continue;
-                }
-                selectedOptions.push(option);
+            if(typeof(data[i].error) === 'object') {
+                data[i].error = data[i].error.join(",\n");
             }
-            selectedOptions = selectedOptions.join(', ');
-            worksheet.cell(i, 3).string(selectedOptions).style(this.style);
 
-            worksheet.cell(i, 4).number(this.getOption()).style(this.style);
+            worksheet.cell(rowNumber, 3).string(data[i].error).style(this.style);
 
-            worksheet.cell(i, 5).number(this.getOption()).style(this.style);
-
-            worksheet.cell(i, 6).number(this.getOption()).style(this.style);
+            let screenshotPath = '../output/';
+            let screenshotFileName = data[i].type + '_' + data[i].id + '.jpeg';
+            console.log(screenshotFileName);
+            const fs = require("fs");
+            if (fs.existsSync(screenshotPath + screenshotFileName)) {
+                worksheet.cell(rowNumber, 4).link(screenshotFileName).style(this.style);
+            } else {
+                worksheet.cell(rowNumber, 4).string('N/A').style(this.style);
+            }
+            
         }
 
-        this.workbook.write('./' + this.fileName + '.xlsx');
+        // timestamp in milliseconds
+        let timestamp = Date.now();
+        this.workbook.write('./' + this.fileNameTemplate + '_' + timestamp + '.xlsx');
     }
 };
 
