@@ -1,2803 +1,2803 @@
 const data = [
     {
-        "id": "2LXCGJTAERX5GRDX",
-        "name": "Ariane Witherspoon",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "2"
+        "id": "FH0NFIX3KOG12AO4",
+        "name": "Sueann Romeo",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "3"
     },
     {
-        "id": "4P6SK8FQVY72U4AJ",
-        "name": "Salvador Marquez",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "1QMKRSLQ7F6Q1S8B",
+        "name": "Hisako Oswald",
+        "type": "Amazon",
+        "field_1": "2",
         "field_2": "4"
     },
     {
-        "id": "Q8GBPUT9M8EMITIV",
-        "name": "Jayna Jimenez",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "1"
+        "id": "8GFI8BTADHZ7L0PI",
+        "name": "Gail Yazzie",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "3"
     },
     {
-        "id": "M05X8ZA3454ZQGRL",
-        "name": "Hang Beard",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "AMF5ND40JKIKQH7B",
+        "name": "Delisa Emmons",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "3"
+    },
+    {
+        "id": "7GV66ZJETXSPNQ9F",
+        "name": "Charlotte Rosenthal",
+        "type": "Amazon",
+        "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "OSA18N6B42AHNXPH",
-        "name": "Irving Leatherman",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "U3TB1KYQGQL7DIO2",
+        "name": "Jazmine Wiese",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "3"
     },
     {
-        "id": "IUMLK0D531LYGSDN",
-        "name": "Phillip Bull",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "UHI5RUPYKQN57XE7",
+        "name": "Lorina Wyatt",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "4"
+        "field_2": "3"
+    },
+    {
+        "id": "11XZOF5GFZGY5HBR",
+        "name": "Mellie Chung",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "3"
     },
     {
-        "id": "MF3NQ7XPOBCEKEUO",
-        "name": "Camie Brackett",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "D0CF77RDDB22JPV2",
+        "name": "Anastacia Torres",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "1"
+        "field_2": "3"
     },
     {
-        "id": "LH3JEK9OA8ME1QUY",
-        "name": "Chong Serna",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "PHMTZPPFGKEPJIN2",
+        "name": "Valentine Cousins",
+        "type": "Google",
         "field_1": "4",
+        "field_2": "1"
+    },
+    {
+        "id": "T1K7IN7J62XSBY06",
+        "name": "Emmett Mcdonald",
+        "type": "Amazon",
+        "field_1": "2",
         "field_2": "3"
     },
     {
-        "id": "YQA0QJ8VVETEQQF0",
-        "name": "Tomi Custer",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "2"
+        "id": "3581B831PZDB23SD",
+        "name": "Wai Pepper",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "4"
     },
     {
-        "id": "9NHMAV5L6D771Y54",
-        "name": "Armandina Moser",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "6JDS8X0QBO02YPQI",
+        "name": "Sanford Santana",
+        "type": "Google",
         "field_1": "2",
-        "field_2": "4"
+        "field_2": "2"
     },
     {
-        "id": "QNQDT65EHVXTP90S",
-        "name": "Lanny Thurston",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "4"
+        "id": "UG7AQE7DIMQ84CR0",
+        "name": "Mac Farnsworth",
+        "type": "Amazon",
+        "field_1": "4",
+        "field_2": "2"
     },
     {
-        "id": "TLCV4Q67NBO6T6KG",
-        "name": "Irvin Plante",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "9QF5YXQPLQKFTXJF",
+        "name": "Jermaine Olivarez",
+        "type": "Google",
         "field_1": "3",
-        "field_2": "4"
+        "field_2": "1"
     },
     {
-        "id": "F1JPXO48FQZ43P4G",
-        "name": "Rikki Sparrow",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "VY3RPOIEVNE7HCRV",
+        "name": "Morgan Rhea",
+        "type": "Amazon",
+        "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "SZ6YDPQHSGTI0EFY",
-        "name": "Romona Almond",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
+        "id": "ZK7Q6U36Q5G211QC",
+        "name": "Laree Forrest",
+        "type": "Amazon",
+        "field_1": "4",
         "field_2": "4"
     },
     {
-        "id": "MDBF0AQANNOVQHJZ",
-        "name": "Kristeen Healey",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "3"
+        "id": "05BQK118BC1256OZ",
+        "name": "Shakia Roth",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "4"
     },
     {
-        "id": "ORR57ONP3XGV1MDF",
-        "name": "Melba Luciano",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "411QJSCJT9OE891O",
+        "name": "Leroy Driscoll",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "3"
+        "field_2": "1"
     },
     {
-        "id": "IGXGEYPO7KQ518J3",
-        "name": "Lezlie Herrin",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "6EZZVZOET5N9B9QK",
+        "name": "Ron Schafer",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "3"
+        "field_2": "1"
     },
     {
-        "id": "0IH1HSOXAOSQD4V7",
-        "name": "Jaqueline Mahon",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "B70YXVKREF70LLQT",
+        "name": "Karon Byars",
+        "type": "Amazon",
         "field_1": "1",
         "field_2": "4"
     },
     {
-        "id": "LNF67TURD9LEXM6B",
-        "name": "Kali Hanson",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "2"
+        "id": "VUHR2VG35O2XY95P",
+        "name": "Modesto Whitfield",
+        "type": "Amazon",
+        "field_1": "4",
+        "field_2": "4"
     },
     {
-        "id": "GQAKQAK9FDQX59KV",
-        "name": "Norbert Aiken",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "YEVI65R5X9ASXRMY",
+        "name": "Zofia Rigsby-Koonce",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "2"
+        "field_2": "4"
     },
     {
-        "id": "9UI7XNZCSB9SBX23",
-        "name": "Ivory Brumfield",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "3"
+        "id": "88QO1RDQ1KOL4GUF",
+        "name": "Drucilla Krieger",
+        "type": "Amazon",
+        "field_1": "4",
+        "field_2": "4"
     },
     {
-        "id": "K6LBBCO9E8V8N392",
-        "name": "Mandy Murdock",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "2"
+        "id": "Z7UHQNEXS05E7845",
+        "name": "Coleman Pearsall",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "4"
     },
     {
-        "id": "CU40RE2ZEZ80A7GC",
-        "name": "Danica Epstein",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "2"
+        "id": "IY1QJKQ94BOQTR5F",
+        "name": "Loraine Mcfall",
+        "type": "Amazon",
+        "field_1": "4",
+        "field_2": "3"
     },
     {
-        "id": "OQ3IU50QGB2L56LO",
-        "name": "Marilynn Slater",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "2"
+        "id": "L17QCXGUE6LK5KZ1",
+        "name": "Brandon Parr",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "1"
     },
     {
-        "id": "0YBMJ5VMJ57MOHGI",
-        "name": "Angelia Crespo",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "ZZ0X5V6O0IC0PPYV",
+        "name": "Kiersten Douglass",
+        "type": "Amazon",
         "field_1": "1",
         "field_2": "2"
     },
     {
-        "id": "ZQPK43K45NIOZPB5",
-        "name": "Alycia Klinger",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "7T5NMHATTFJTVPQK",
+        "name": "Linda Manzo",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "2"
+        "field_2": "4"
     },
     {
-        "id": "QPYJSRYFMVI3UNDI",
-        "name": "Almeta Angelo",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "DIZ3XD3T5GYZ9UF5",
+        "name": "Danny Marin",
+        "type": "Google",
         "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "H4TSYAQOLRO5HC1B",
-        "name": "Salina Keating",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "1"
+        "id": "ZTQTHIHU80KQ1HRT",
+        "name": "Catalina Carr",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "3"
     },
     {
-        "id": "JC3RK1JC37C1UEQT",
-        "name": "Lia Chestnut",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "N9XAPJYINQNT2H3Y",
+        "name": "Marjorie Li",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "2"
+        "field_2": "1"
     },
     {
-        "id": "RKSQL9BUF3HSHRXN",
-        "name": "Marisela Singletary",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "3"
+        "id": "1B6SIYD43POC2NEB",
+        "name": "Bart Guillen",
+        "type": "Google",
+        "field_1": "2",
+        "field_2": "2"
     },
     {
-        "id": "OAAZB1YOTJD1E28L",
-        "name": "Annamaria Peak",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "EBU7R84P6CRYH7XA",
+        "name": "Mohamed Winn",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "4"
+        "field_2": "3"
     },
     {
-        "id": "Q1V5GHY2CCI4FAE7",
-        "name": "Madeleine Orton",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "4"
+        "id": "90MP4ZTY9O2EOQTJ",
+        "name": "Grady Cowley",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "3"
     },
     {
-        "id": "NJJ0M3G5QR2HMN3N",
-        "name": "Armanda Kraft",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "UM6QMOYL5Y3FVLDV",
+        "name": "Archie Loyd",
+        "type": "Amazon",
         "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "1BSS23XRBNOV7KUM",
-        "name": "Tamica Humphreys",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
+        "id": "K876PT2N59498CLT",
+        "name": "Julene Kenny",
+        "type": "Google",
+        "field_1": "4",
         "field_2": "3"
     },
     {
-        "id": "ZHIK0AQC86OPZMUB",
-        "name": "Felisa Flanders",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
+        "id": "5440JU7QP7F9F9SJ",
+        "name": "Dolly Fortner",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "1"
+    },
+    {
+        "id": "9FTFOFQXTU4YQCVX",
+        "name": "Porter Latham-Lantz",
+        "type": "Amazon",
+        "field_1": "2",
         "field_2": "1"
     },
     {
-        "id": "IQ401CQXLMFQI0Q4",
-        "name": "Christen Dickson",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "OU5GMTKY21YJMT0C",
+        "name": "Deeann Meza",
+        "type": "Amazon",
         "field_1": "4",
         "field_2": "3"
     },
     {
-        "id": "576QEENPHKN3OI9I",
-        "name": "Sharie Kopp",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "1QQ3TXMM7YQX46RQ",
+        "name": "Neil Conyers",
+        "type": "Amazon",
         "field_1": "3",
-        "field_2": "1"
-    },
-    {
-        "id": "1ALLEGSYIUOLRJOV",
-        "name": "Rodger Flowers",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
         "field_2": "3"
     },
     {
-        "id": "AHDM2BLGV9I3XYYT",
-        "name": "Maybell Mann",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "QP7J6CD5HYCN33TP",
+        "name": "Sunday Leggett",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "1"
+        "field_2": "3"
     },
     {
-        "id": "CKXY1LJ1YXJI5BAX",
-        "name": "Alisia Montez",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "2"
+        "id": "TYBSQVYNA6JLIUZR",
+        "name": "Marilou Herrmann",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "4"
     },
     {
-        "id": "LLDBDDIBYYFXGYPQ",
-        "name": "Kemberly Ordonez",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "P51UARA6MQM6D4JV",
+        "name": "Mariette Mcallister",
+        "type": "Google",
         "field_1": "4",
-        "field_2": "2"
+        "field_2": "4"
     },
     {
-        "id": "UQ31S4Q48SRQK20F",
-        "name": "Giuseppina Waugh",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "8ZQAM3FAHVIZO8SD",
+        "name": "Alfredo Libby",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "4"
+        "field_2": "3"
     },
     {
-        "id": "DSHPPDGIXBIGZLKP",
-        "name": "Virginia Lister",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "4"
+        "id": "GTEL1VCDI2E36RHO",
+        "name": "Zoraida Rawls",
+        "type": "Amazon",
+        "field_1": "4",
+        "field_2": "3"
     },
     {
-        "id": "BQ5017IEAA4T1I8U",
-        "name": "Santina Lavigne",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "L5Z5Q9O798PYJPD4",
+        "name": "Machelle Miles",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "1"
+        "field_2": "3"
     },
     {
-        "id": "58XN76RYDVBDA09M",
-        "name": "Ora Zielinski",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "4"
+        "id": "PUD9K56JZJNK78K8",
+        "name": "Francene Arias",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "3"
     },
     {
-        "id": "GSUOOQ54FO362ABJ",
-        "name": "Tennille Belt",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "2"
+        "id": "88TTH96RFQXFBF4S",
+        "name": "Kurtis Brigham",
+        "type": "Google",
+        "field_1": "2",
+        "field_2": "3"
     },
     {
-        "id": "ZXPINSIN5IAKO6V4",
-        "name": "Yee Prosser",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "6740R7CB7PIQ6Q17",
+        "name": "Marilou Biddle",
+        "type": "Google",
         "field_1": "1",
         "field_2": "4"
     },
     {
-        "id": "ODV8N1KUESCTHDKQ",
-        "name": "Elva Diamond",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "4"
+        "id": "TH4BKGY7HHTKV8YT",
+        "name": "Aileen Felton",
+        "type": "Google",
+        "field_1": "2",
+        "field_2": "1"
     },
     {
-        "id": "ZGLAOHKPE0ULEN86",
-        "name": "Araceli Woodbury",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "3"
+        "id": "FZD2XNMLUXRIOL1E",
+        "name": "Rutha Spurlock",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "2"
     },
     {
-        "id": "3AQUTBJQYZA05BEN",
-        "name": "Mathilde Krebs",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "F65KROZXA4UMQCFP",
+        "name": "Florence Andre",
+        "type": "Amazon",
         "field_1": "3",
         "field_2": "2"
     },
     {
-        "id": "2UVVJ2GQOXLE3QES",
-        "name": "Winter Escalante",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "CJN823E12NLHLPUM",
+        "name": "Macie Adkins",
+        "type": "Amazon",
+        "field_1": "3",
         "field_2": "3"
     },
     {
-        "id": "AL4ZUZQ10P3E4XQM",
-        "name": "Haywood Salazar",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "XTGZ0C3CQJ44Y5P7",
+        "name": "Jamie Ricks",
+        "type": "Amazon",
         "field_1": "3",
-        "field_2": "4"
+        "field_2": "3"
     },
     {
-        "id": "T1SLMQ570KBR5ZZ2",
-        "name": "Shawanda Minor",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "5Q3A4U5OLYAUS42A",
+        "name": "Ariane Shannon",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "1"
     },
     {
-        "id": "99UN1544YDZ3VRNY",
-        "name": "September Stroud",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
+        "id": "TG8GREL353I6DQVR",
+        "name": "Sonny Solis",
+        "type": "Amazon",
+        "field_1": "2",
         "field_2": "4"
-    },
-    {
-        "id": "8HPLPZXEGKSFBLAU",
-        "name": "Earline Mattison",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "2"
     },
     {
-        "id": "JTRXVFQYQ3UUQ5JC",
-        "name": "Candida Bartley",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "1"
+        "id": "YYP1FPQ4EKKJZVAR",
+        "name": "Cassie Harry",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "3"
     },
     {
-        "id": "4P52BH1GVKQ33FVA",
-        "name": "Akiko Batchelor",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "3AV7PYPON0VR2MN1",
+        "name": "Bobbi Wertz",
+        "type": "Google",
         "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "D9SC2ECQL0T1RBXL",
-        "name": "Yvone Shank",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
+        "id": "NT1V1A5840QBAL6F",
+        "name": "Ron Mccallister",
+        "type": "Amazon",
+        "field_1": "2",
         "field_2": "2"
     },
     {
-        "id": "RY62DJEIB9AQQCMP",
-        "name": "Jong Milam",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "X9NBGU2H5TMK686B",
+        "name": "Nanci Mitchell",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "1"
+        "field_2": "4"
     },
     {
-        "id": "ZQO54JK4YVDRMO3B",
-        "name": "Blondell Rutter-Winkler",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "QBVPD5JMJRYDJ6KE",
+        "name": "Billie Barnard",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "2"
     },
     {
-        "id": "0Y549O6Y64Q2FUQ1",
-        "name": "Cheri Street-Duckett",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "OYN2FIQHDZ3DF1SI",
+        "name": "Burma Eskridge",
+        "type": "Google",
         "field_1": "3",
-        "field_2": "2"
-    },
-    {
-        "id": "5CKN6OIQSX1K042G",
-        "name": "Emil Orosco",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "BXZ3GOQFXQVGQO0C",
-        "name": "Shantae Rupp",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "OKOC78T4GD3VCSHI",
+        "name": "Velma Whiteside-Hubert",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "2"
+        "field_2": "3"
     },
     {
-        "id": "MJM8IBSM0LJQRVQT",
-        "name": "Jordon Rawls",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "D5Q2OCOHZH11X9T1",
+        "name": "Lyla Wallen",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "1"
+        "field_2": "3"
     },
     {
-        "id": "ET67XMQCSF0XFGRA",
-        "name": "Karyl Zarate",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
+        "id": "BQLV1YY53L9NC5HM",
+        "name": "Berniece Knox",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "4"
-    },
-    {
-        "id": "19FAQKG3TB28N6T1",
-        "name": "Art Messenger",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "1"
-    },
-    {
-        "id": "3G8E7OXNBHTUZP64",
-        "name": "Leatrice Hylton",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "1"
     },
     {
-        "id": "RDMBKN8O5XCGA6V1",
-        "name": "Alease Hanlon",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "3HH13ZX0988UXJOX",
+        "name": "Kemberly Olivarez",
+        "type": "Amazon",
         "field_1": "1",
         "field_2": "3"
-    },
-    {
-        "id": "ATKYAXR8MBPQFZOE",
-        "name": "Randall Shafer",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "4"
     },
     {
-        "id": "ELTGLP19RDL895OB",
-        "name": "Margarete Fulcher",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "SMDQ145SZSK7U6NM",
+        "name": "Maia Patton",
+        "type": "Amazon",
         "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "HBSS0QJE1983U9DO",
-        "name": "Beryl Pak",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
+        "id": "PPPDERLZDOKYKMLJ",
+        "name": "Clinton Freed",
+        "type": "Google",
+        "field_1": "2",
         "field_2": "2"
     },
     {
-        "id": "HQFVJ6E0ZP71CORU",
-        "name": "Sibyl Gomes",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "8GUUUZEX77YOK7VL",
+        "name": "Orpha Oswalt",
+        "type": "Amazon",
         "field_1": "1",
         "field_2": "3"
     },
     {
-        "id": "XLO6241XEIB7C7RT",
-        "name": "Mollie Ocasio",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "RS43R8B5LT8CM2QJ",
+        "name": "Sheena Avery",
+        "type": "Amazon",
+        "field_1": "4",
         "field_2": "1"
     },
     {
-        "id": "O80MDH4ZHKQNUVTI",
-        "name": "Leonia Fortner",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "A6BP8LQJ561VQ7I1",
+        "name": "Hugh Vaughn",
+        "type": "Google",
         "field_1": "2",
-        "field_2": "1"
+        "field_2": "4"
     },
     {
-        "id": "FPO89ZHCXKEIVCIS",
-        "name": "Gilberte Mahon",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
+        "id": "LR99FY2XUYUYDG0I",
+        "name": "Sebastian Olds",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "3"
     },
     {
-        "id": "JXNFCE55CFAGGT2G",
-        "name": "Prudence Logue",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "3"
+        "id": "5EZRL5AM3QDNH3NQ",
+        "name": "Lorene Jacobs",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "4"
     },
     {
-        "id": "AQR4Z3PL9CIDEJ8Z",
-        "name": "Shoshana Roden",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "066R3KQF7OC23FCL",
+        "name": "Geneva Ponce",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "2"
     },
     {
-        "id": "57S12L4ENQHU5VC7",
-        "name": "Jeannine Rose",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "T4NB3A2Q4GAKLMMA",
+        "name": "Rowena Saul",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "3"
+        "field_2": "4"
     },
     {
-        "id": "4N8FQPDMC112OL7N",
-        "name": "Lannie Conger-Alston",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "1"
+        "id": "IUMGSIE3HQ7M9ZAN",
+        "name": "Buffy Churchill",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "4"
     },
     {
-        "id": "44AT2QH8G2GOQQYV",
-        "name": "Indira Padilla",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "Y69RKTMU9BFAC5H3",
+        "name": "Kortney Folse",
+        "type": "Amazon",
+        "field_1": "4",
         "field_2": "2"
+    },
+    {
+        "id": "FLDKRUL2JPL1BI0J",
+        "name": "Neville Castleberry",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "4"
     },
     {
-        "id": "1JL3TFQJEZ82RNJX",
-        "name": "Cindi Silver",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "Y1PU3YEYZKKHU1EE",
+        "name": "Shaneka Paul",
+        "type": "Google",
         "field_1": "4",
-        "field_2": "3"
+        "field_2": "2"
     },
     {
-        "id": "F5MHI411B31EIVJV",
-        "name": "Piedad Masters",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "3"
+        "id": "VFMAACKQVFYQHRNZ",
+        "name": "Josephine Marroquin",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "2"
     },
     {
-        "id": "ZKLAQUAVZZY9P4TC",
-        "name": "Miki Schulze",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "1"
+        "id": "QB5BX0DXZGXSJEMF",
+        "name": "Shelby Blanks",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "3"
     },
     {
-        "id": "5GGFVF3CT7098DFD",
-        "name": "Valeria Fort",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "TN1JG3TE9QHTKIS7",
+        "name": "Robt Arroyo",
+        "type": "Google",
         "field_1": "4",
         "field_2": "4"
     },
     {
-        "id": "Q75B0Y95MZ3TCR52",
-        "name": "Norbert Florence",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "3KN8QO5DMZ9TXO8H",
+        "name": "Lovetta Spruill",
+        "type": "Google",
         "field_1": "2",
         "field_2": "4"
     },
     {
-        "id": "XU7ZH5AQ7RXLT04C",
-        "name": "Clarisa Bird",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "NL34L97SJPHRJR0X",
+        "name": "Flo Saucier-Witherspoon",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "1"
-    },
-    {
-        "id": "1D43G9YV4DO2G4TL",
-        "name": "Lezlie Hulsey",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "3"
+        "field_2": "4"
     },
     {
-        "id": "07YF4IURC54YN4L1",
-        "name": "Kira Orton",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "2US58FMDRLIGOC5O",
+        "name": "Audie Reardon",
+        "type": "Google",
         "field_1": "3",
         "field_2": "4"
     },
     {
-        "id": "9U7DK692BBMIFQBQ",
-        "name": "Tess Leeper",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "1"
+        "id": "ZM0RGFRJTJO7Q9M5",
+        "name": "Allene Ahmed",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "3"
     },
     {
-        "id": "Z1NCQ9KPE5TUUQA1",
-        "name": "Renato Gunther",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "46E1LTPS52G7BCUG",
+        "name": "Jude Trapp",
+        "type": "Google",
         "field_1": "2",
-        "field_2": "1"
-    },
-    {
-        "id": "BHXLG3E6ZC02ML8H",
-        "name": "Kathleen Gaytan-Reyna",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
         "field_2": "1"
-    },
-    {
-        "id": "DU1F8IYNCHFA1BG0",
-        "name": "Seema Williams",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "4"
-    },
-    {
-        "id": "M6Y1CC4GHDNDGP69",
-        "name": "Florence Outlaw",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "3"
     },
     {
-        "id": "4Q51483ZH2AAUE9P",
-        "name": "Shu Perea",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "0FXETRYA64ANR7PV",
+        "name": "Tora Doan",
+        "type": "Google",
         "field_1": "3",
-        "field_2": "2"
+        "field_2": "4"
     },
     {
-        "id": "SDD4X6Q41GEIK86Q",
-        "name": "Randa Mccormack",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "IV6FZ44QZPZHB0PC",
+        "name": "Wesley Pina",
+        "type": "Google",
         "field_1": "1",
         "field_2": "1"
     },
     {
-        "id": "64XCDK83DUXLGA6T",
-        "name": "Aline Starkey",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "3"
+        "id": "IQDOQQRKJHJYJ77Q",
+        "name": "Creola Trevino",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "4"
     },
     {
-        "id": "EH307OTRGBITCRU8",
-        "name": "Philomena Monaco",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "QHQUMCQBJY0MZT7M",
+        "name": "Marcia Moreland",
+        "type": "Google",
         "field_1": "3",
-        "field_2": "4"
+        "field_2": "3"
     },
     {
-        "id": "BK23HKV1XNV72LGO",
-        "name": "Ivy Sexton",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "4K80Q3A7OEZNHSE6",
+        "name": "Fleta Sanderson",
+        "type": "Google",
         "field_1": "4",
-        "field_2": "4"
+        "field_2": "3"
     },
     {
-        "id": "KZVUFOEHG3TBZU4S",
-        "name": "Anja Noland",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "3"
+        "id": "9JX2ZSZA2ZO8L8F9",
+        "name": "Lynne Trombley",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "1"
     },
     {
-        "id": "JYJXJ9SBQGSSVGSQ",
-        "name": "Vinita Faber",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "NMKD6IM6VPCKIKKN",
+        "name": "Odell Fields",
+        "type": "Google",
         "field_1": "3",
         "field_2": "4"
     },
     {
-        "id": "53Q3ZYUMC0V2S89R",
-        "name": "Nell Jimenez",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "H4IEF4ENM02DH4SV",
+        "name": "Efren Speight",
+        "type": "Google",
         "field_1": "1",
+        "field_2": "1"
+    },
+    {
+        "id": "VFZI8QL8R4DLHBFA",
+        "name": "Golda Chesser",
+        "type": "Google",
+        "field_1": "2",
         "field_2": "2"
     },
     {
-        "id": "TTBA24NMRAB8PQDH",
-        "name": "Simonne Scully",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "DL7GBSLI342HNSHK",
+        "name": "Dorthy Griffith",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "2"
+        "field_2": "3"
     },
     {
-        "id": "HPJC7Y8NO0RPO7XD",
-        "name": "Brinda Matlock",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "TQJQYNESOKP2M1VL",
+        "name": "Evelynn Herman",
+        "type": "Google",
         "field_1": "2",
         "field_2": "4"
     },
     {
-        "id": "OAV77OQDEFSC3OZN",
-        "name": "Denna Trahan",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "U1XK5PZ7YB93HFPU",
+        "name": "Freddie Roe",
+        "type": "Google",
         "field_1": "4",
-        "field_2": "4"
+        "field_2": "3"
     },
     {
-        "id": "OQBF200OX27LY47T",
-        "name": "Delbert Shook",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "1"
+        "id": "UTNTKRP286MV8FX5",
+        "name": "Rosendo Fulton",
+        "type": "Amazon",
+        "field_1": "4",
+        "field_2": "3"
     },
     {
-        "id": "ELHOH5JORCHE34Q3",
-        "name": "Jerold Utley",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "YXCYO0TU37KMOU24",
+        "name": "Hilde Coombs",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "4"
     },
     {
-        "id": "LR38YZ8SFQMAUBG4",
-        "name": "Alethia Bettis",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "T75Z9UI2Y41LVSPR",
+        "name": "Lourie Haas",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "3"
+    },
+    {
+        "id": "GJ8B4U9BGEBZDG0O",
+        "name": "Sharie Carvalho",
+        "type": "Amazon",
+        "field_1": "4",
         "field_2": "3"
     },
     {
-        "id": "1TD41KOKBOQZLGAS",
-        "name": "Nohemi Batista",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "Q5CSDU1T332IRN86",
+        "name": "Sharell Corbitt",
+        "type": "Google",
         "field_1": "1",
+        "field_2": "4"
+    },
+    {
+        "id": "7H6G0MKT8620BBFF",
+        "name": "Waylon Rigsby",
+        "type": "Google",
+        "field_1": "2",
         "field_2": "3"
     },
     {
-        "id": "T51OCZ12DDUBQYX8",
-        "name": "Calvin Schwab",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "8YCCYVKUHY56GTMV",
+        "name": "Tonie Downey",
+        "type": "Google",
         "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "CSVYY9O24X0OL09U",
-        "name": "Mandy Fritz",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "4"
+        "id": "OQNZ6O9Q1EFYQF82",
+        "name": "Easter Sommers",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "3"
     },
     {
-        "id": "S2Z9R6Q55NNFLNQT",
-        "name": "Apolonia Bobbitt",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "2"
+        "id": "VPPCU6LFDFDG6M9E",
+        "name": "Deshawn Teague",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "1"
     },
     {
-        "id": "EFQULPMOSBCIRS9Z",
-        "name": "Lauri Ellsworth",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "D8B9J639JYNQMA2X",
+        "name": "Violet Noel-Murry",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "3"
+        "field_2": "4"
     },
     {
-        "id": "AJE11EEI8H3P5GV5",
-        "name": "Jaimee Craft",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "6UHB6Y5P06HTK686",
+        "name": "Genesis Canales",
+        "type": "Amazon",
         "field_1": "3",
         "field_2": "4"
     },
     {
-        "id": "Q2DKYNQ5C93LYHXZ",
-        "name": "Erika Silas",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
+        "id": "58K1V9DONVD7J1OK",
+        "name": "Joleen Boyce-Lacy",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "4"
+    },
+    {
+        "id": "8K2RR9BNKGS7CZPA",
+        "name": "Dacia Wylie",
+        "type": "Google",
+        "field_1": "3",
         "field_2": "3"
     },
     {
-        "id": "5TJ9BEN13Y28OP11",
-        "name": "Tiny Creel",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "E0K0KIE5E1BXU739",
+        "name": "Araceli Varela",
+        "type": "Amazon",
         "field_1": "1",
         "field_2": "3"
     },
     {
-        "id": "86TJPHU2N9ZMRNXQ",
-        "name": "Idella Field",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "47KBHYV3TA6V9C2Q",
+        "name": "Lance Danforth",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "2"
+        "field_2": "4"
     },
     {
-        "id": "FFM89LBOQ0FDLIE2",
-        "name": "Yesenia Donahue",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "AXT06O062XS221IQ",
+        "name": "Evan Schultz-Tallent",
+        "type": "Google",
         "field_1": "1",
-        "field_2": "1"
+        "field_2": "4"
     },
     {
-        "id": "25P81ZZSC397BQB8",
-        "name": "Josefina Overton",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "A7XKN4KFFQKV85KN",
+        "name": "Gaston Dejesus",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "3"
+        "field_2": "4"
     },
     {
-        "id": "4YGTTC99PLGCF23E",
-        "name": "Emerson Dorris-Dover",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "3"
+        "id": "BB28UB1PA4GQYQEG",
+        "name": "Reid Irwin",
+        "type": "Amazon",
+        "field_1": "4",
+        "field_2": "2"
     },
     {
-        "id": "LHLT346KPKXQOGH8",
-        "name": "Raguel Cramer",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "2"
+        "id": "3H4GT0YXFXOSRVU0",
+        "name": "Leana Beale",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "4"
     },
     {
-        "id": "6VZUJAJ937RYD4K0",
-        "name": "Marchelle Irvin",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "S43EDI9TQ62H4LTF",
+        "name": "Angelyn Pennell",
+        "type": "Google",
         "field_1": "2",
         "field_2": "3"
     },
     {
-        "id": "XCLRC9SHJPFL55DX",
-        "name": "Kristy Mcdonald",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "H097ULRXEQGS3C5X",
+        "name": "Thersa Hartman",
+        "type": "Google",
         "field_1": "2",
-        "field_2": "1"
+        "field_2": "3"
     },
     {
-        "id": "4QF075PYF1UGDIC2",
-        "name": "Dacia Kohler",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "53OT4TBPV9CCHPJ4",
+        "name": "Eliza Pitcher",
+        "type": "Amazon",
+        "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "7KJIQ01VEXRS7EYA",
-        "name": "Adelaide Nesmith",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "8AFL7F4ET0FZZYQZ",
+        "name": "Clarinda Mcclanahan",
+        "type": "Google",
         "field_1": "2",
-        "field_2": "4"
+        "field_2": "2"
     },
     {
-        "id": "SF9DKOQZ57DQNK8M",
-        "name": "Arron Staggs",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "1"
+        "id": "YFEV4U2SQV7L76D6",
+        "name": "Stephany Gorman",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "4"
     },
     {
-        "id": "268DZRQ5J61FP9RE",
-        "name": "Arleen Bunn",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
+        "id": "OX815J215LRL0B0N",
+        "name": "Josef Burkholder",
+        "type": "Amazon",
+        "field_1": "3",
         "field_2": "3"
     },
     {
-        "id": "N77LNDSQKQSVLRD1",
-        "name": "Ambrose Perkins",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "F9BDIL3KXTBIYSHA",
+        "name": "Una Sherwood",
+        "type": "Google",
         "field_1": "1",
-        "field_2": "3"
+        "field_2": "2"
     },
     {
-        "id": "6U2LI4A86S6D6KFR",
-        "name": "Kelle Mayo",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "Q9HDDP3JQN9QH5L2",
+        "name": "Cleveland Rawls",
+        "type": "Google",
         "field_1": "4",
         "field_2": "2"
+    },
+    {
+        "id": "27SV7JK5A7KKJJGC",
+        "name": "Kala Negrete",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "1"
     },
     {
-        "id": "OQXRTAAO0GKQQ4YI",
-        "name": "Melva Barlow",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "12BNDS6DOVCS6Z9R",
+        "name": "Margert Humes",
+        "type": "Amazon",
         "field_1": "3",
-        "field_2": "3"
+        "field_2": "2"
     },
     {
-        "id": "QQJL8AK8CCD1902P",
-        "name": "Jessika Crisp",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "CMQUBUYXL62B6A0M",
+        "name": "Toshia Beverly",
+        "type": "Google",
         "field_1": "2",
+        "field_2": "2"
+    },
+    {
+        "id": "G51Q89BRXD7AEDNQ",
+        "name": "Thomasine Bautista",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "2"
+    },
+    {
+        "id": "E26ZRP9XBY7M0HFL",
+        "name": "Jeni House",
+        "type": "Amazon",
+        "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "Q3C7L2QXJEYL8KRA",
-        "name": "Maegan Rounds",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "N7SKBQ4HQTN31QIF",
+        "name": "Reva Horner",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "4"
+        "field_2": "2"
+    },
+    {
+        "id": "PT5PYPHZQZNLBHKX",
+        "name": "Birdie Beaman",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "1"
+    },
+    {
+        "id": "RXYZ6U3QKEIKJETN",
+        "name": "Cyrstal Funderburk",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "1"
     },
     {
-        "id": "96G29OKYN3X1MQD3",
-        "name": "Asia Mcclain",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "ELOB7SNGE0PV43G4",
+        "name": "Marquitta Young",
+        "type": "Amazon",
         "field_1": "1",
         "field_2": "4"
     },
     {
-        "id": "SDTJK8BE37KGHQZD",
-        "name": "Melani Mccreary",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "2A9XJLVQ4LI18KQ2",
+        "name": "Latoria Arndt",
+        "type": "Google",
         "field_1": "3",
-        "field_2": "2"
+        "field_2": "4"
     },
     {
-        "id": "5HZCG5O6AAB9UG59",
-        "name": "Loni Barger",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "1"
+        "id": "IM9Q7QX3FS8ZT0KC",
+        "name": "Shantel Tyner",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "2"
     },
     {
-        "id": "UAUA4UKT7ZE6MZPA",
-        "name": "Latina Dockery",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "3V2HTIIVKHQYU4YI",
+        "name": "Marion Reece",
+        "type": "Amazon",
         "field_1": "1",
         "field_2": "2"
+    },
+    {
+        "id": "75KZU8J58R4L1YV3",
+        "name": "Renate Jude",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "4"
     },
     {
-        "id": "7OPC7T4FLRETYFRC",
-        "name": "Lai Pate",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "KZU96VAFX86BJ5T5",
+        "name": "Emerald Bradbury-Kingsbury",
+        "type": "Amazon",
         "field_1": "3",
-        "field_2": "2"
+        "field_2": "3"
     },
     {
-        "id": "57D4GOONJLBUZZC7",
-        "name": "Orlando Chew",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
+        "id": "LUAKQGVJGT4Q69Q0",
+        "name": "Gerardo Guillen",
+        "type": "Amazon",
+        "field_1": "4",
         "field_2": "1"
     },
     {
-        "id": "EM1MD74QX8NI8N7G",
-        "name": "Danille Mcfall",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "CUKLJ0KSO2Q2TXZ5",
+        "name": "Artie Rust",
+        "type": "Google",
         "field_1": "1",
         "field_2": "4"
     },
     {
-        "id": "CZ3463XLH1FJ87ON",
-        "name": "Desmond Pomeroy",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "SEBI3U3DVGBSDML3",
+        "name": "Luann Keefer",
+        "type": "Amazon",
+        "field_1": "4",
+        "field_2": "2"
+    },
+    {
+        "id": "AZU3UXACJAH0JO0U",
+        "name": "Scarlet Withrow",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "2"
     },
     {
-        "id": "IMBT1VUKFQFTKBN1",
-        "name": "Dallas Burgos-Bolduc",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "YDMVY745G8QYQEZE",
+        "name": "Darla Wooley",
+        "type": "Amazon",
         "field_1": "2",
         "field_2": "3"
     },
     {
-        "id": "ZIIVAX4RMG79G3LG",
-        "name": "Luise Magana",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "3"
+        "id": "80HNHCL5UKKC7PYR",
+        "name": "Carolin Nevarez",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "1"
     },
     {
-        "id": "EB28PNRQZIVNZFT4",
-        "name": "Leroy Downey",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "4IOESCNDQS8QDGJE",
+        "name": "Rebeca Free",
+        "type": "Amazon",
         "field_1": "3",
-        "field_2": "3"
+        "field_2": "1"
     },
     {
-        "id": "GMQPIXD076MZ031U",
-        "name": "Lindsey Lowe",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "2"
+        "id": "R7IVI8Z26P269OJR",
+        "name": "Pamala Arreola",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "4"
     },
     {
-        "id": "E40FQQP1G4MTOQI4",
-        "name": "Belva Macdonald",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
+        "id": "OK0OE0EN07PO2U3J",
+        "name": "Brunilda Reuter",
+        "type": "Amazon",
+        "field_1": "3",
         "field_2": "1"
+    },
+    {
+        "id": "0CMYQ8E3CEUPSPKU",
+        "name": "Esperanza Cummins",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "3"
+    },
+    {
+        "id": "YVR4GAJ03QQT554K",
+        "name": "Cyndi Darling",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "4"
     },
     {
-        "id": "6DEGAM2KYJSADCFO",
-        "name": "Theodore Fullerton",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "NCV887RLRQK1NQDU",
+        "name": "Tesha Meacham",
+        "type": "Google",
         "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "C5YZL028VZCOAG8B",
-        "name": "Jody Springer",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "254R2R8SOTBSI8GV",
+        "name": "Elin Williams",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "3"
+        "field_2": "4"
     },
     {
-        "id": "QXMQ0PIQZ1QCO75D",
-        "name": "Marianna Hillard",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "VFLM4UILV3H94GNO",
+        "name": "Iona Strother",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "4"
+        "field_2": "1"
+    },
+    {
+        "id": "4GYLGBONSGIAYOYY",
+        "name": "Annamaria Massie",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "1"
     },
     {
-        "id": "U1234F1RH8SQMBPB",
-        "name": "Kandra Furr",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "HT9Q7DC65PS942E1",
+        "name": "Domitila Fielder",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "4"
+        "field_2": "1"
     },
     {
-        "id": "J08C950DFQQCIC3K",
-        "name": "Temika Baker",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "MKAXFNYC1ZO8APJ1",
+        "name": "Pamula Pettigrew",
+        "type": "Google",
+        "field_1": "3",
         "field_2": "4"
     },
     {
-        "id": "GSQTG69PBPD4T66Y",
-        "name": "Alba Mark",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "FFGIQGL3EPFSY6U2",
+        "name": "Shanelle Hylton",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "3"
-    },
-    {
-        "id": "CKCQA6QPFY09LXNR",
-        "name": "Antonietta Moulton",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "TGZ5CZY9FU81XUJA",
-        "name": "Leatrice Conyers",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "QYQEPBDCC25T3MRX",
+        "name": "Dani Schulz",
+        "type": "Google",
         "field_1": "3",
         "field_2": "4"
     },
     {
-        "id": "QRZGKX7GHI816G4Q",
-        "name": "Dell Scully",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "41ZI5JMYSQZFQ515",
+        "name": "Dawna Lewandowski",
+        "type": "Google",
         "field_1": "4",
-        "field_2": "4"
+        "field_2": "2"
     },
     {
-        "id": "4PHXIFU3OFC44NKC",
-        "name": "Mittie Soria",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "NL0FVJZHKXLSAAJP",
+        "name": "Adelle Vigil",
+        "type": "Google",
         "field_1": "3",
+        "field_2": "1"
+    },
+    {
+        "id": "XZ725DE9SB3CK3JJ",
+        "name": "Wyatt Brinkman",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "3"
     },
     {
-        "id": "HZT015VA5RFEEO37",
-        "name": "Arnette Owens",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "1"
+        "id": "HVCA00EFP5UO59RS",
+        "name": "Bret Khan",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "2"
     },
     {
-        "id": "JTRGXXFBA15VQ452",
-        "name": "Kayce Frias",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "YVOK5PQOMQLCDLS3",
+        "name": "Tania Thatcher",
+        "type": "Amazon",
+        "field_1": "4",
         "field_2": "3"
     },
     {
-        "id": "H8PD66Q6O1UG9PVH",
-        "name": "Iliana Boatman",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "OHLT00I6TQMBOMH6",
+        "name": "Cathern Barringer",
+        "type": "Google",
         "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "L027C0V14BUG1GQZ",
-        "name": "Clifton Alonzo",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "DV8HQL4Y020X400O",
+        "name": "Juli Dominquez",
+        "type": "Google",
         "field_1": "3",
-        "field_2": "4"
+        "field_2": "2"
     },
     {
-        "id": "A05EB75DZ01QICNI",
-        "name": "Clyde Mccabe",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "IIHG87YV1CR5SN4P",
+        "name": "Phoebe Crowley",
+        "type": "Amazon",
         "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "249IXYI3ZT9QBU2A",
-        "name": "Arron Carbone",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "1"
+        "id": "T7BIYR7GEC1QSFL6",
+        "name": "Latina Osburn",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "4"
     },
     {
-        "id": "E5BZQ4BL53SNV6NZ",
-        "name": "Breann Roddy",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "QC23SA8LA93V0K0K",
+        "name": "Shery Oliveira",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "3"
     },
     {
-        "id": "H9DJIEC01UVHZ2ED",
-        "name": "Asuncion Leroy",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "2"
+        "id": "JSBQ3YJOBAM44XQY",
+        "name": "Danae Hammer",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "1"
     },
     {
-        "id": "OTA82AQZQXQ6V245",
-        "name": "Jenifer Thompson",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "88O2DUE6M4BZ5FZK",
+        "name": "Alejandra Aguayo",
+        "type": "Google",
         "field_1": "4",
-        "field_2": "4"
+        "field_2": "2"
     },
     {
-        "id": "1OYQ0ATFH1V2QNMR",
-        "name": "Nestor Fulkerson",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "4"
+        "id": "VMEOQR7HO2MJ2H7K",
+        "name": "Wanita Love",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "3"
     },
     {
-        "id": "QPRQ9M1Y1CQ2GR8S",
-        "name": "Dodie Shores",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "KYV396F86AFD8YDC",
+        "name": "Lora Brink",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "3"
+        "field_2": "1"
     },
     {
-        "id": "RH0OVTIR1HZQLKB5",
-        "name": "Vera Franz",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "VTO1FJ9RIQ6365KU",
+        "name": "Velvet Hughey",
+        "type": "Google",
         "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "FEQO9ZNAQZKR1QEB",
-        "name": "Paola Estes",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "9QIZQTPDDLXLFMZX",
+        "name": "Adena Alarcon",
+        "type": "Google",
         "field_1": "4",
+        "field_2": "2"
+    },
+    {
+        "id": "O8GLQVSOFFOSEXK8",
+        "name": "Nellie Mattos-Bagley",
+        "type": "Amazon",
+        "field_1": "2",
         "field_2": "4"
     },
     {
-        "id": "ONM3AXQ4P3PUZTO7",
-        "name": "Chris Lee",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "NRTL2SBTHFQLF1B6",
+        "name": "Donnell Hensley",
+        "type": "Amazon",
         "field_1": "4",
+        "field_2": "4"
+    },
+    {
+        "id": "HKEQCSIR0Z6F8M13",
+        "name": "Doria Hopkins",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "1"
+    },
+    {
+        "id": "XMOUF3HXBRODEVK1",
+        "name": "Rosana Sears",
+        "type": "Google",
+        "field_1": "2",
         "field_2": "2"
     },
     {
-        "id": "GBLFH99V9YVC9C6I",
-        "name": "Kathe Preston",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "PFQ3UV3QUU0QHPDP",
+        "name": "Joslyn Blaine",
+        "type": "Google",
         "field_1": "1",
-        "field_2": "1"
+        "field_2": "4"
     },
     {
-        "id": "Q64TEZ5HG1OIBZ6V",
-        "name": "Jennifer Gonsalves",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "1"
+        "id": "DFVIFJGS5OAY4Q46",
+        "name": "Nelda Houle",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "2"
     },
     {
-        "id": "M3OQSFFETGKYGMC0",
-        "name": "Reva Hyland-Rosas",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "8L5Z8HI8TPLM77OZ",
+        "name": "Harmony Holcombe",
+        "type": "Google",
         "field_1": "2",
-        "field_2": "3"
+        "field_2": "2"
     },
     {
-        "id": "S8Q7P6QP4EV5B4A1",
-        "name": "Dwana Woodley",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "NT62COI9QN785R8S",
+        "name": "Nyla Necaise",
+        "type": "Google",
         "field_1": "4",
-        "field_2": "1"
+        "field_2": "3"
     },
     {
-        "id": "3FRLY2VAM018DICO",
-        "name": "Lilliam Walston",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "4"
+        "id": "D381QYVHHAN3K4QU",
+        "name": "Ji Koontz",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "3"
     },
     {
-        "id": "9LNMABRVESRZQKJQ",
-        "name": "Noelia Huggins",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "ZTF10SNI4XM8EZAG",
+        "name": "Rae Gilliland",
+        "type": "Amazon",
         "field_1": "1",
         "field_2": "4"
     },
     {
-        "id": "QYKVVGO5AP7YYDS6",
-        "name": "Lincoln Beltran",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "FV1QCMT7XS915HF8",
+        "name": "Leandro Derosa",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "2"
+    },
+    {
+        "id": "GA001BIHO15CTDIF",
+        "name": "Wilhemina Monroe",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "4"
     },
     {
-        "id": "92U46X3DE5SINN2M",
-        "name": "Alana Mcclain",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "Y8CZZAK7VTMORI5A",
+        "name": "Sadye Lawrence",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "1"
+    },
+    {
+        "id": "LHZQ2NXJFEIQB0HA",
+        "name": "Sadie Grayson",
+        "type": "Amazon",
         "field_1": "2",
+        "field_2": "3"
+    },
+    {
+        "id": "1EILFZ7N18V9S3NU",
+        "name": "Celinda Smiley",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "3"
+    },
+    {
+        "id": "XCCNHX634XT3JF3Z",
+        "name": "Tawanda Waddell",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "1"
     },
     {
-        "id": "EQVH73G99TMT0U6O",
-        "name": "September Greer",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "BT1QGY1XT9XEV3P5",
+        "name": "Beulah Rudd",
+        "type": "Google",
         "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "G72JDJ6282HBPGVQ",
-        "name": "Zana Register",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
+        "id": "A8ID8URT35YGQ6JQ",
+        "name": "Antione Bayne",
+        "type": "Amazon",
+        "field_1": "2",
         "field_2": "2"
     },
     {
-        "id": "6YQS43THZJU98NL6",
-        "name": "Shalon Quintero",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "4"
+        "id": "DJ16Q7CMJGFQH6VP",
+        "name": "Ardelle Stricklin",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "3"
     },
     {
-        "id": "BE7Y2JXBCQMLR0TN",
-        "name": "Rolf Holiday",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "ZBQYL5Y6B3EFTB1L",
+        "name": "Gretta Schofield",
+        "type": "Amazon",
         "field_1": "2",
         "field_2": "3"
     },
     {
-        "id": "ENB5MVTQVS9L8MJX",
-        "name": "Caryl Michael",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "QI89J1QVNZ6R283B",
+        "name": "Joanne Pinckney",
+        "type": "Google",
         "field_1": "3",
         "field_2": "4"
     },
     {
-        "id": "Y2C0BCGGRZIOV3QE",
-        "name": "Kathern Hermann",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "2"
+        "id": "F5I3YBQLN6MIFHJI",
+        "name": "Freda Bingham",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "3"
     },
     {
-        "id": "EIQMZ6XGKVQUTKH9",
-        "name": "Gracia Duff",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "2"
+        "id": "E509GA7ZUF6TC5P1",
+        "name": "Pia Hope",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "4"
+    },
+    {
+        "id": "9GIOS0EKYLKDB7DO",
+        "name": "Milford Herrick",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "3"
     },
     {
-        "id": "NF32QU95NGZFQ51X",
-        "name": "Katerine Alderman",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "7191E81AIHX8JIHE",
+        "name": "Tonita Breedlove",
+        "type": "Google",
         "field_1": "2",
         "field_2": "1"
     },
     {
-        "id": "HT8ZSUVEBHZM1XQB",
-        "name": "Madelene Sweeney",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "P3617IYLS4HNJHKE",
+        "name": "Sunni Tirado",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "4"
+        "field_2": "3"
     },
     {
-        "id": "CZOC7G7F19JRJUTD",
-        "name": "Ernesto Killian",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "1"
+        "id": "RHQJB78LVPJRQBB3",
+        "name": "Curtis Doyle",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "2"
+    },
+    {
+        "id": "D9YXO8BQ0AOZ9L22",
+        "name": "Norbert Lipscomb",
+        "type": "Amazon",
+        "field_1": "4",
+        "field_2": "3"
     },
     {
-        "id": "9IXMKLT2UGD562G4",
-        "name": "Svetlana Mcmurray",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "ANX1PR2IZS9JT3DF",
+        "name": "Arlette Hamm",
+        "type": "Google",
         "field_1": "1",
-        "field_2": "4"
+        "field_2": "3"
     },
     {
-        "id": "U8Y6R3R69ESL4SPZ",
-        "name": "Ramon Sena",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "218340FKBPZAA240",
+        "name": "Jacqueline Funk",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "4"
+        "field_2": "1"
     },
     {
-        "id": "0ZUX6O8RYLQPYAAN",
-        "name": "Bettina Bronson",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "1"
+        "id": "DQK5MT6QQ7BNKF1O",
+        "name": "Orval Carlisle",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "3"
     },
     {
-        "id": "FAEOTEQOD8UIBXFF",
-        "name": "Daryl Breland",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "1"
+        "id": "CAQPZUUYYFKTUG38",
+        "name": "Pearlie Kolb",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "3"
     },
     {
-        "id": "GONT0UXCJSDTBBUZ",
-        "name": "Taren Maloney",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
+        "id": "U1O400QBYPAO6RES",
+        "name": "Vivian Cardenas",
+        "type": "Google",
+        "field_1": "4",
         "field_2": "4"
     },
     {
-        "id": "RISOV1CKQQ3HD6CS",
-        "name": "Jaye Barnett",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "Q8C14NL15GNG1AFU",
+        "name": "Arlena Munoz",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "4"
+        "field_2": "2"
     },
     {
-        "id": "1HZV4UI9DQK7HBGJ",
-        "name": "Joie Windham",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "1"
+        "id": "LYLEQNPR5HXTCF99",
+        "name": "Bettina Swank",
+        "type": "Amazon",
+        "field_1": "4",
+        "field_2": "3"
     },
     {
-        "id": "7F2E0IKQJ1IZG147",
-        "name": "Charity Rawlins",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "20LZ9DDV0DQ3DOXX",
+        "name": "Von Phelps",
+        "type": "Google",
         "field_1": "2",
-        "field_2": "4"
+        "field_2": "1"
     },
     {
-        "id": "IME6MJ8MFDTYMZZX",
-        "name": "Jeremiah Renner",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "ZKBELVGZ49X66TJ2",
+        "name": "Lauralee Holcombe",
+        "type": "Google",
         "field_1": "3",
         "field_2": "3"
     },
     {
-        "id": "BRTPVED0QDL238OL",
-        "name": "Ozie Irons",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "N0D3NX7FACGHOTUS",
+        "name": "Chase Xiong",
+        "type": "Google",
+        "field_1": "4",
         "field_2": "3"
     },
     {
-        "id": "KA41BRXXZ9QV72F7",
-        "name": "Maya Todd",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "4"
-    },
-    {
-        "id": "CQNJX8KE9GP8V7O6",
-        "name": "Eboni Robledo-Phelps",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "CUVMM1PRUI1M9Q4N",
+        "name": "Kiana Coons",
+        "type": "Amazon",
         "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "QE5ZEZSTE69Z7U94",
-        "name": "Ingeborg Burdette",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "NPBOUFR9DNKHI86K",
+        "name": "Korey Light",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "1"
     },
     {
-        "id": "MCXNFZQDZDPBX0UU",
-        "name": "Dudley Roddy-Simons",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "HBNH9SIYDJR4VI0J",
+        "name": "Collene Sheets",
+        "type": "Amazon",
         "field_1": "2",
+        "field_2": "3"
+    },
+    {
+        "id": "6VVUK1KFTRIVPVN2",
+        "name": "Hedwig Brunson",
+        "type": "Amazon",
+        "field_1": "4",
         "field_2": "1"
     },
     {
-        "id": "OPUCNAGNGYXPUBE1",
-        "name": "Hosea Gist",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
+        "id": "K0SSELD16QM0A6LR",
+        "name": "Alda Edge",
+        "type": "Amazon",
+        "field_1": "4",
         "field_2": "3"
     },
     {
-        "id": "YZQ286N9MCPAIDH9",
-        "name": "Albertha Neel",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "PRJIEOQ9PYLOYDED",
+        "name": "Lyndsey Kahn",
+        "type": "Amazon",
         "field_1": "2",
         "field_2": "4"
     },
     {
-        "id": "8DHOA66BXLCU6URL",
-        "name": "Bernita Cate",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "10765J6YCJL4UBT8",
+        "name": "Gena Connell",
+        "type": "Google",
         "field_1": "2",
-        "field_2": "4"
+        "field_2": "2"
     },
     {
-        "id": "Q0G0F9MFZKN3KRS1",
-        "name": "Breann Hemphill",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "MM505QTM36QCR1G2",
+        "name": "Dewitt Tom",
+        "type": "Google",
         "field_1": "4",
-        "field_2": "3"
+        "field_2": "2"
     },
     {
-        "id": "YNSHBTCFCQC5Q8CP",
-        "name": "Celesta Carlisle",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "X5EV69Y2G4B80Z5Q",
+        "name": "Larry Garnett",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "4"
+    },
+    {
+        "id": "9DU9PQ4UJC8QZYQF",
+        "name": "Alishia Lamontagne",
+        "type": "Google",
         "field_1": "2",
         "field_2": "2"
     },
     {
-        "id": "6FR6O3P23N5QFHJN",
-        "name": "Sulema Richmond",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "8RX71JFUSZJR5MQN",
+        "name": "Vernie Prosser",
+        "type": "Amazon",
         "field_1": "3",
-        "field_2": "1"
-    },
-    {
-        "id": "3PH7H90ABQL3IGEY",
-        "name": "Ryann Cleary",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "2"
+        "field_2": "3"
     },
     {
-        "id": "866QCXSPXHYJ7BBS",
-        "name": "Margareta Godinez",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "4"
+        "id": "ITZ0B8HT8FGISRAD",
+        "name": "Cara Mullis",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "3"
     },
     {
-        "id": "CFYTT6BDU0MQ07F1",
-        "name": "Leticia Messina",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "7QJSD6YGUI52ZY6F",
+        "name": "Christal Blank",
+        "type": "Google",
         "field_1": "4",
-        "field_2": "4"
+        "field_2": "3"
     },
     {
-        "id": "G0KBIP06S3OKA1YL",
-        "name": "Yelena Mackay",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "1IVUHJX4ZQUQLX49",
+        "name": "Kristie Vergara",
+        "type": "Amazon",
         "field_1": "3",
         "field_2": "4"
     },
     {
-        "id": "O37QDR9ITEFJJOYZ",
-        "name": "Domingo Purvis",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "3"
+        "id": "3O424C3B5O8O21I6",
+        "name": "Deandre Towns",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "2"
     },
     {
-        "id": "QOE86KJ9QMU267GL",
-        "name": "Regenia Williamson",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "U03RXM1OQ284JJDJ",
+        "name": "Diane Bello",
+        "type": "Google",
         "field_1": "3",
-        "field_2": "2"
+        "field_2": "1"
     },
     {
-        "id": "DFCF26C45JNA8M32",
-        "name": "Estell Quiroz",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "3"
+        "id": "ETSE8R2ZAT66GB5F",
+        "name": "Gricelda Singer",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "1"
     },
     {
-        "id": "1H30IAXHHFZ5736J",
-        "name": "Kasi Valentin",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "3"
+        "id": "4SDY85DAT5GO08TD",
+        "name": "Louella Smalley",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "4"
     },
     {
-        "id": "RS0QF0AZNSV4Q6CQ",
-        "name": "Babara Whatley",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "BS09E042JQ0AOVXQ",
+        "name": "Dan Crowe",
+        "type": "Google",
         "field_1": "3",
-        "field_2": "4"
+        "field_2": "1"
     },
     {
-        "id": "QAUFKTQGNMEFCPZA",
-        "name": "Irene Ingalls",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "YNEXA1B81NYS12Q1",
+        "name": "Deandra Wicks",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "3"
     },
     {
-        "id": "XXZB2U97UPNSUPZI",
-        "name": "Clarine Montanez",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "SASV8NSV8O0MEUNE",
+        "name": "Antonina Lovejoy",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "3"
+        "field_2": "1"
     },
     {
-        "id": "59QBE8J3A3901X9R",
-        "name": "Renita Cranford",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "NL1JN1XO0SGB0S83",
+        "name": "Violette Finnegan",
+        "type": "Google",
         "field_1": "3",
         "field_2": "4"
     },
     {
-        "id": "9VQ4ZE61NU0FT4E2",
-        "name": "Grayce Trahan",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "1"
+        "id": "37HNLSYTG65PEGTV",
+        "name": "Tien Martel",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "3"
     },
     {
-        "id": "6ZJGI10N9BI5R26Z",
-        "name": "Marisela Carrier-Artis",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "RXLELAMLDDG5MQRO",
+        "name": "Dewey Maynard",
+        "type": "Amazon",
         "field_1": "1",
         "field_2": "4"
     },
     {
-        "id": "GGP2053KPVSCL6P3",
-        "name": "Johnathon Smallwood",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "1"
+        "id": "G2RKT4FP13MTB3GJ",
+        "name": "Marcell Kenyon",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "2"
     },
     {
-        "id": "BVPNGSHG6OQD5BA2",
-        "name": "Elenore Southerland",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
+        "id": "LQGQ00RYRH1L7YGC",
+        "name": "Agustin Daugherty",
+        "type": "Google",
+        "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "DJ70FVVONUBCYEER",
-        "name": "Wendolyn Beall",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "IV7KYXDIDF536RQT",
+        "name": "Alpha Lanham",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "3"
+        "field_2": "1"
     },
     {
-        "id": "DLQIYBZRQRULR44L",
-        "name": "Minta Newman",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "ACMBZ1M2AOTJAJ0Y",
+        "name": "Natisha Noriega",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "2"
+        "field_2": "3"
     },
     {
-        "id": "644QNCQR7J4AV5YY",
-        "name": "Edelmira Estrada",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "1"
+        "id": "86Q1U755T1NNIPF9",
+        "name": "Madison Carlin",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "3"
     },
     {
-        "id": "M3Q4ONHC871J9Y3K",
-        "name": "Walter Yancey-Marcotte",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "6JLRRBP7COA9I89F",
+        "name": "Josphine Swope",
+        "type": "Google",
         "field_1": "1",
         "field_2": "3"
-    },
-    {
-        "id": "X7HGA0OE0KQPQOQ5",
-        "name": "Fernanda Beamon",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "4"
     },
     {
-        "id": "JUM8T0DMC1S7ARI6",
-        "name": "Voncile Gill",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "GJ9N84Z0E8R3RVSU",
+        "name": "Briana Pettigrew",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "2"
     },
     {
-        "id": "42KAQP3JP30VD0J6",
-        "name": "Nyla Durbin",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "3"
+        "id": "SQ1T6CFK9RB8EKQ3",
+        "name": "Pam Furr",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "4"
     },
     {
-        "id": "80JH8NLNPGBY02IM",
-        "name": "Monte Slade",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "24E9VRU32MQKKBHU",
+        "name": "Emelina Forster",
+        "type": "Google",
         "field_1": "1",
         "field_2": "2"
     },
     {
-        "id": "5TB9O9QCVCJMYH91",
-        "name": "Austin Mccord",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "Z5P3RNMF3T580UU9",
+        "name": "Seymour Coates",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "3"
-    },
-    {
-        "id": "YKCG38NBUKXNTQYJ",
-        "name": "Lulu Bledsoe",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
         "field_2": "4"
     },
     {
-        "id": "277IEJA26G0VDMYE",
-        "name": "Kori Cushman",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "SLUM0S7CQ6FV5P90",
+        "name": "Khadijah Post",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "1"
-    },
-    {
-        "id": "R3V1CQ2M4LNVOCCG",
-        "name": "Tandy Gustafson-Haywood",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "2"
+        "field_2": "3"
     },
     {
-        "id": "N9HD2NQCBXQLVA8V",
-        "name": "Meta Torres",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "PXCOP5JTIFEF4OR6",
+        "name": "Tanner Hundley",
+        "type": "Google",
         "field_1": "3",
         "field_2": "2"
     },
     {
-        "id": "XRDMG05GL4551TBF",
-        "name": "Beryl Perreault",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "4"
+        "id": "94C1H5UXU6S8E17S",
+        "name": "Lakenya Mitchel",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "2"
     },
     {
-        "id": "ZE36S8GDBZT2Q65U",
-        "name": "Hilda Berube",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "6PQX81S2NZX1ZQSX",
+        "name": "Jaunita Atherton",
+        "type": "Amazon",
         "field_1": "1",
         "field_2": "3"
     },
     {
-        "id": "HIEK96KO0Q8EPMH9",
-        "name": "Grayce Belanger",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "LQC2CDUZKUVT5QZG",
+        "name": "Morton Hinton",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "1"
+        "field_2": "3"
     },
     {
-        "id": "BZ7FXQ0R0VNLMQ89",
-        "name": "Therese Wang",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "4X3PVQU2E16P31LE",
+        "name": "Colleen Rice",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "1"
     },
     {
-        "id": "FJHQ50U1GTG19G06",
-        "name": "Terisa Furlong",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
+        "id": "G07PMYQ74IXUTIQ6",
+        "name": "Trinity Houck",
+        "type": "Google",
+        "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "YMAUOG13U4NP73HG",
-        "name": "Reba Kee",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "R4DSRPYULH1NAKBQ",
+        "name": "Nana Bloom",
+        "type": "Amazon",
         "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "32JGK95ZCQUK0QL8",
-        "name": "Dorathy Box",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "MDA8OGQ6VHXB1N9Q",
+        "name": "Margit Gavin",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "4"
-    },
-    {
-        "id": "JQJ2EEHA6HV0AADQ",
-        "name": "Inga Mowery",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
         "field_2": "1"
     },
     {
-        "id": "10Q6QNQ1MD3Q98IP",
-        "name": "Louvenia Marion-Aiken",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "3"
-    },
-    {
-        "id": "AOCB9EVERORQ1DYK",
-        "name": "Michelle Lin",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "Y03AVKZEEC2QM6LC",
+        "name": "Milda Lawton",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "4"
-    },
-    {
-        "id": "XNZLONIDRVEXQ2SZ",
-        "name": "Fred Austin",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
         "field_2": "4"
     },
     {
-        "id": "UQ0SYTPK2E47MO8Q",
-        "name": "Len Sam",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "2"
+        "id": "S8955GSQXEVQY7G1",
+        "name": "Carmelo Cornett",
+        "type": "Google",
+        "field_1": "2",
+        "field_2": "3"
     },
     {
-        "id": "CRU55KE97HZOQDB8",
-        "name": "Emelina Friedman",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "1"
+        "id": "9TCASCLZ2JO9UYB8",
+        "name": "Austin Burchett",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "3"
     },
     {
-        "id": "Q0629FYY97RFYALQ",
-        "name": "Jesica Pyle",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "7P18FB9VOMB3PXQD",
+        "name": "Marquerite Tomlinson",
+        "type": "Amazon",
         "field_1": "3",
-        "field_2": "4"
-    },
-    {
-        "id": "M6FNBRQYBRGYJSQJ",
-        "name": "Larita Lester",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "4"
+        "field_2": "1"
     },
     {
-        "id": "0LTAON5HZO25GR78",
-        "name": "Cyrus Snead",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "07BSQVNA7TIUXO49",
+        "name": "Coralie Abbott",
+        "type": "Amazon",
+        "field_1": "4",
         "field_2": "3"
     },
     {
-        "id": "LVMQ8QP59CRL6ZZ8",
-        "name": "Lilliana Eskridge",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "PZ942FIC99SFAJJR",
+        "name": "Dennis Tyler",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "2"
     },
     {
-        "id": "FZ2TLJ1JOQH61734",
-        "name": "Dennise Lovell",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "1QGPFT89H8YFN06J",
+        "name": "Sid Race",
+        "type": "Google",
         "field_1": "1",
         "field_2": "1"
     },
     {
-        "id": "ZJZ7UTYMMJ4J355K",
-        "name": "Tegan Hodge",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "0VTL4OZPIMU7EIDD",
+        "name": "Rolland Henke",
+        "type": "Amazon",
         "field_1": "2",
         "field_2": "2"
     },
     {
-        "id": "BCGS8AF12Z393RJP",
-        "name": "Isela Parker",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "U7Z11CH6E6E1L0JK",
+        "name": "Neville Burleson",
+        "type": "Google",
         "field_1": "1",
-        "field_2": "1"
+        "field_2": "2"
     },
     {
-        "id": "MK66DPQSEB1NS8ED",
-        "name": "Stanton Ahrens",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "T2O589Z9QCJAL0FI",
+        "name": "Adena Valles",
+        "type": "Google",
         "field_1": "4",
-        "field_2": "3"
+        "field_2": "1"
     },
     {
-        "id": "GNYXX86B77NF2A95",
-        "name": "Cinderella Waldron",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "3"
+        "id": "R6T8APPMCNFII31A",
+        "name": "Keira Demers",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "2"
     },
     {
-        "id": "DTB7K37QMUMVJ70Q",
-        "name": "Kristopher Morey",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "Z2F9FQAC87ISXGF7",
+        "name": "Carl Bucher",
+        "type": "Amazon",
+        "field_1": "4",
         "field_2": "4"
     },
     {
-        "id": "COU0T1IZ30AGXV8Q",
-        "name": "Taina Cote-Armstrong",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "1"
+        "id": "6GNNH21EPF6DSUKU",
+        "name": "Shonta Alexander",
+        "type": "Amazon",
+        "field_1": "4",
+        "field_2": "2"
     },
     {
-        "id": "T6UV5L6BTFU8MPMX",
-        "name": "Zaida Zepeda",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "4"
+        "id": "5IFOR2Q3Z0H4V03M",
+        "name": "Gianna Bertram",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "1"
     },
     {
-        "id": "DOTZH9RG7SQBBE4V",
-        "name": "Ok Brubaker",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "6PE4QS1H9LF41BIE",
+        "name": "Yang Forney",
+        "type": "Amazon",
         "field_1": "3",
-        "field_2": "3"
+        "field_2": "4"
     },
     {
-        "id": "XO9P1UMPE6117CHV",
-        "name": "Eliana Mchenry",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "BMPFG01LKA0VHM3O",
+        "name": "Danna Rojas",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "3"
+        "field_2": "1"
     },
     {
-        "id": "7LH0RQ7YZQT0CH1L",
-        "name": "Rose Bateman",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "33B8U5364GGTKXNT",
+        "name": "Deborah Guidry",
+        "type": "Google",
         "field_1": "1",
-        "field_2": "3"
+        "field_2": "4"
     },
     {
-        "id": "A8OO84G25KSBFQPQ",
-        "name": "Lasonya Partin",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "YUQYU5FP8URPSDAK",
+        "name": "Tamar Dwyer",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "2"
     },
     {
-        "id": "0IRISD3YSS87V42S",
-        "name": "Loyd Lavender-Samuel",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "4"
+        "id": "5KIUJQ4BT9QKCLE0",
+        "name": "Gretchen Kirby",
+        "type": "Google",
+        "field_1": "2",
+        "field_2": "2"
     },
     {
-        "id": "F2AEZGGV2USOC377",
-        "name": "Tamar Mccleary",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "T27Y3IQH4UO9APMF",
+        "name": "Jaimie Hamm",
+        "type": "Amazon",
         "field_1": "1",
         "field_2": "1"
     },
     {
-        "id": "0CJLNOD0K4TTXVVE",
-        "name": "Felisha Bertram",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "EGKS0Z6DHTO9NQQZ",
+        "name": "Gina Poole",
+        "type": "Google",
         "field_1": "3",
         "field_2": "2"
     },
     {
-        "id": "E4PDGQ1D6EPHQAZL",
-        "name": "Beckie Burnette",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "1"
+        "id": "Q8NV4SIYXAU35407",
+        "name": "Marti Childers",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "4"
     },
     {
-        "id": "XE7VPAOGRN1JG9ZM",
-        "name": "Belkis Wilks",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "Z4FGSGVRPZ26AN0L",
+        "name": "Karol Chapman",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "4"
+        "field_2": "2"
     },
     {
-        "id": "A2ALULGAE8XR9B4O",
-        "name": "Dell Golden",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
+        "id": "Q1VOXLLLUTGSE12T",
+        "name": "Wendie Oquendo",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "3"
+    },
+    {
+        "id": "N78J8MJIF27MUU7G",
+        "name": "Ivette Holden",
+        "type": "Amazon",
+        "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "982IQLAUL4QM0M8G",
-        "name": "Sherlene Edgar",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "F7BMN0L8H1UEOS0B",
+        "name": "Jacqui Bickford",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "4"
+        "field_2": "2"
     },
     {
-        "id": "N5GFBELBAB1IVVSE",
-        "name": "Maple Lopez",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "4RZ24JJRJODKAB1P",
+        "name": "Fausto Crews",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "2"
     },
     {
-        "id": "7XTTDCA2H0ZU7R9K",
-        "name": "Haley Henke",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "3"
+        "id": "K2Q9FJE0D4NKJR42",
+        "name": "Willian August",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "2"
     },
     {
-        "id": "28ZQ1OFBCDV6GEFP",
-        "name": "Rolanda Walker",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "3"
+        "id": "8MKS9L5PQT7MZVL3",
+        "name": "Tangela Monson",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "2"
     },
     {
-        "id": "1QYFVZABJ5BH7O6Q",
-        "name": "Denisha Snyder",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
+        "id": "IUQF6MG6B0QJPETH",
+        "name": "Cristi Wiese",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "4"
     },
     {
-        "id": "MI7MAAF1KGBIH8TL",
-        "name": "Kimbery Brazil",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "AGQXXAJ7DRUTRKTR",
+        "name": "Milagros Cannon",
+        "type": "Google",
+        "field_1": "2",
         "field_2": "4"
     },
     {
-        "id": "R73XJ7M4C84XVZHJ",
-        "name": "Cherie Upton",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "2"
+        "id": "QGQLCN0RZCO655I0",
+        "name": "Emilia Palacios",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "1"
     },
     {
-        "id": "FHDDYE51SGTJB5OC",
-        "name": "Katherine Hull",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "35KQEYRQGP3CNLEC",
+        "name": "Guy Poe",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "3"
+        "field_2": "2"
     },
     {
-        "id": "RHDUQ8AQQQZUA7H9",
-        "name": "Val Pence",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "LGKXDKSMYLSLV8EH",
+        "name": "Jaymie Burris",
+        "type": "Google",
         "field_1": "4",
-        "field_2": "3"
+        "field_2": "1"
     },
     {
-        "id": "MPDD657NOY4VCP3Q",
-        "name": "Lanelle Connor",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "59QMMXF2HDDAYCSV",
+        "name": "Paris Keel",
+        "type": "Google",
         "field_1": "3",
-        "field_2": "3"
+        "field_2": "1"
     },
     {
-        "id": "GNQNT47AUMZ31YJY",
-        "name": "Byron Croteau",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "3"
+        "id": "VL3AHNHOJY94GHYB",
+        "name": "Maureen Kelleher",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "4"
     },
     {
-        "id": "6LKY2QSMQ9BRTX1E",
-        "name": "Hiroko Hill",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "1QZJRGG5O9GUK8Q5",
+        "name": "Griselda Mohr",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "2"
     },
     {
-        "id": "KCK3UNVUV12FBGTG",
-        "name": "Barbara Low",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "RDI861FQMIY2IRNM",
+        "name": "Jaimie Brackett",
+        "type": "Google",
+        "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "0Z70MHDP5RKXDYML",
-        "name": "Hiedi Cota",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "P8N31HMA3SIRBK3N",
+        "name": "Esteban Clemens",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "1"
-    },
-    {
-        "id": "4RVJGH7JQFSKL2VV",
-        "name": "Stan Pichardo",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "4"
+        "field_2": "2"
     },
     {
-        "id": "6E2VDBD38MVZJXUF",
-        "name": "Raina Chesser",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
+        "id": "TQCSPD1U8FKU09YO",
+        "name": "Ardath House",
+        "type": "Amazon",
+        "field_1": "2",
         "field_2": "1"
     },
     {
-        "id": "QUUJJCQ90RDEJTS1",
-        "name": "Britta Gillespie",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "GV1LXDGB8GXYKNKR",
+        "name": "Chrissy Basham-Keck",
+        "type": "Google",
         "field_1": "3",
-        "field_2": "4"
-    },
-    {
-        "id": "HMUQVX3F3SFBGAN1",
-        "name": "Sima Treadwell",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "4"
-    },
-    {
-        "id": "XLI5PX7VL5A539SE",
-        "name": "Nola Rector",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "1"
+        "field_2": "2"
     },
     {
-        "id": "U5A7X7Y3UQ4H5C8X",
-        "name": "Arvilla Caraway",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "LBIQMOREGQM0M325",
+        "name": "Jacquelyne Boucher",
+        "type": "Google",
         "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "GQTT0VUTNSFIUA5N",
-        "name": "Leone Batten",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "UTB7JMLEI2QEDBRE",
+        "name": "Arminda Avery",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "1"
     },
     {
-        "id": "D9B100GABFY9HG0U",
-        "name": "Sparkle Swan",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "YUMYQPHR0TVU1YC0",
+        "name": "Erline Herbert",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "1"
     },
     {
-        "id": "5QG7FC9V5SE3MTQZ",
-        "name": "Elida Orth",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "OSQHDSLV9KLBUFME",
+        "name": "Ernesto Tate",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "2"
+        "field_2": "1"
     },
     {
-        "id": "O2H8MAA6NAILPI2N",
-        "name": "Dovie Elmore",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "1"
+        "id": "5QCFFKJQP5MKI02L",
+        "name": "Olga Proffitt",
+        "type": "Amazon",
+        "field_1": "4",
+        "field_2": "4"
     },
     {
-        "id": "2OJUIG5X18XOQG59",
-        "name": "Sofia Donnell",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "IJ54F73NX8GNVB03",
+        "name": "Guy Mcnamee",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "4"
     },
     {
-        "id": "X8SOS7XBHM8PE8J1",
-        "name": "Ileen Isbell",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "X7EQZJDJHP5HUSXJ",
+        "name": "Cortney Hubert",
+        "type": "Google",
+        "field_1": "3",
         "field_2": "2"
     },
     {
-        "id": "KQ9RKITTMTJ5A1C8",
-        "name": "My Cloutier",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "SH25PVGLOBB3484B",
+        "name": "Coralee Tong",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "3"
+        "field_2": "2"
     },
     {
-        "id": "ESB6OXEZ2QB7EVEV",
-        "name": "Celsa Cisneros",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "FCFQ4TLQ0UK1AJLM",
+        "name": "Ashley Trimble",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "3"
-    },
-    {
-        "id": "MRCNZ8QQY7GB71PU",
-        "name": "Alva Gardiner",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "2"
     },
     {
-        "id": "FX95F0R4ABCS31SV",
-        "name": "Illa Kimbrough",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "ZQC99FE3JJH4N26Z",
+        "name": "Francesco Marvin",
+        "type": "Amazon",
         "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "CFJOCGCPJIQMB0GG",
-        "name": "Missy Yancey",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "1"
+        "id": "4M5CBSQS2NTNK7YQ",
+        "name": "Renea Buford",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "3"
     },
     {
-        "id": "TJ9AYFQZ32GDF19F",
-        "name": "Hwa Sherman",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "ZUM7JL42ML7KBQP7",
+        "name": "Luana Stroup",
+        "type": "Amazon",
         "field_1": "3",
-        "field_2": "3"
+        "field_2": "2"
     },
     {
-        "id": "58PSMI22H8D5KQPO",
-        "name": "Leora Pratt",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
+        "id": "BBQEJD3ZAM1TQQMF",
+        "name": "Lawerence Mathis",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "3"
     },
     {
-        "id": "HQO9CTES43M08EG3",
-        "name": "Zena Salinas",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "1"
+        "id": "BJA14QV9OJAF029P",
+        "name": "Zelda Hume-Crayton",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "2"
     },
     {
-        "id": "6VN39JN55S5S802O",
-        "name": "Clarissa Castellanos",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "1"
+        "id": "7SOQ1KY4859YMSRA",
+        "name": "Lou Mcclure",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "3"
     },
     {
-        "id": "CRYC5PIOQUUVXVKY",
-        "name": "Kiersten Pfeiffer",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "GSQ2L2UFZU9FS8XX",
+        "name": "Yang Ware",
+        "type": "Amazon",
         "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "6GKBSPL8LUCQINB5",
-        "name": "Hayden Herrera",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "8H73ZA5YQVELF734",
+        "name": "Bernie Chambers",
+        "type": "Amazon",
+        "field_1": "4",
         "field_2": "4"
+    },
+    {
+        "id": "L2FZI5B9CK72V3LJ",
+        "name": "Vincent Foret",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "1"
     },
     {
-        "id": "U5FS3K45NEMTRLPH",
-        "name": "Jerilyn Donald",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "N11YTG8YVZ9ITBHL",
+        "name": "Karima Peck",
+        "type": "Google",
         "field_1": "2",
-        "field_2": "3"
+        "field_2": "2"
     },
     {
-        "id": "MNT2IYPL3HLSN3CY",
-        "name": "Archie Morrell",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "3JUM4CU4S7D0L6D6",
+        "name": "Christy Fountain",
+        "type": "Google",
         "field_1": "4",
         "field_2": "1"
     },
     {
-        "id": "11413CQQ0ZNXZ4ZJ",
-        "name": "Carley Thurman",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "2"
+        "id": "SR7HQOASAD5JDBMX",
+        "name": "Marianne Clay-Corbin",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "4"
     },
     {
-        "id": "EPL55TMGTLPS6169",
-        "name": "Art Pugh",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "2L2LD3D3OJR9B7RA",
+        "name": "Cordell Box",
+        "type": "Google",
         "field_1": "3",
+        "field_2": "1"
+    },
+    {
+        "id": "2SQ3FMPE4YBASTUP",
+        "name": "Gene Garvey",
+        "type": "Amazon",
+        "field_1": "2",
         "field_2": "2"
     },
     {
-        "id": "RY8I9VNL0KA2QTAR",
-        "name": "Lisandra Holloman",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "3VROSAB3ZIFNSQI9",
+        "name": "Vivan Mclendon",
+        "type": "Google",
         "field_1": "4",
-        "field_2": "3"
+        "field_2": "4"
     },
     {
-        "id": "U5GT703FE00E9YEV",
-        "name": "Kristyn Bennett",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "OT7NUPUM4IAX9SZC",
+        "name": "Spencer Perkins-Obrien",
+        "type": "Google",
+        "field_1": "1",
         "field_2": "3"
-    },
-    {
-        "id": "YF0LZIKCP8OJUYK5",
-        "name": "Devora Mulligan",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "4"
     },
     {
-        "id": "UOIVPEFTGNVFXL4E",
-        "name": "Katrice Rodriquez",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "SPXFAGUOBPOTAYVC",
+        "name": "Conchita Tolley",
+        "type": "Google",
         "field_1": "1",
         "field_2": "1"
     },
     {
-        "id": "2J9CZRCYXL8ABAX2",
-        "name": "Emile Irons",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "4"
+        "id": "UGNE5LANK6TUNGQN",
+        "name": "Reanna Worthy",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "3"
     },
     {
-        "id": "R6FJXHTOYTDIBFDU",
-        "name": "Peter Held",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "MUKEUJQMDL2AETU2",
+        "name": "Fonda Fahey-Soria",
+        "type": "Google",
+        "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "RA5K40QO0IX1TZG9",
-        "name": "Quinton Walling",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "JO98G7D2KU4CFION",
+        "name": "Inez Nesmith",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "3"
+        "field_2": "4"
     },
     {
-        "id": "D2SEY1PNONU1PAV1",
-        "name": "Nina Mabe",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "VK8QDZF3VFD0OM5K",
+        "name": "Clarisa Power",
+        "type": "Google",
         "field_1": "1",
-        "field_2": "2"
+        "field_2": "1"
     },
     {
-        "id": "4BQQPTTSULOB5PPP",
-        "name": "Dakota Grier",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
+        "id": "PDEFF60OO6VYQKT9",
+        "name": "Gregg Adcock",
+        "type": "Amazon",
+        "field_1": "1",
         "field_2": "1"
     },
     {
-        "id": "QZMPQQ68XXL9K8IY",
-        "name": "Denese Burk",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "5P61BYLMTR88442Z",
+        "name": "Leeann Lindstrom",
+        "type": "Google",
         "field_1": "2",
-        "field_2": "2"
+        "field_2": "3"
     },
     {
-        "id": "RQU0RJ4A472NZ8CQ",
-        "name": "Von Wingfield",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "FZQA7KAMQQC6I1H3",
+        "name": "Donte Starkey-Moss",
+        "type": "Google",
         "field_1": "2",
         "field_2": "4"
+    },
+    {
+        "id": "DKYY277N08JI8FBQ",
+        "name": "Khadijah Benjamin",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "1"
     },
     {
-        "id": "H0S7XQ9B7GG58UEM",
-        "name": "Tara Troutman",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "HM8F9PCRCA12PKDU",
+        "name": "Shalon Heyward",
+        "type": "Amazon",
         "field_1": "1",
         "field_2": "2"
     },
     {
-        "id": "NQZ1COQB3Y9OV7JJ",
-        "name": "Jerri Wing",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "2"
+        "id": "0QSFIOXT0JZMVGRK",
+        "name": "Henry Braxton",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "1"
     },
     {
-        "id": "99QQ1GFVCL0TUM9G",
-        "name": "Alice Estrada",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "KQ9XSK64XQUTLRPS",
+        "name": "Sheri Baird",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "2"
+        "field_2": "1"
     },
     {
-        "id": "TPQZ6U96ZIJ9U68S",
-        "name": "Malika Box",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "FDODPOL6HD213E56",
+        "name": "Melvina Mclane",
+        "type": "Amazon",
         "field_1": "4",
         "field_2": "1"
     },
     {
-        "id": "VEC2P7DQ81DM3R1Y",
-        "name": "Pamelia Duarte",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "4"
+        "id": "ZHPLQ43E1I6DB2IU",
+        "name": "Maximo Radford",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "1"
     },
     {
-        "id": "0R5JI2YCPDRROXQ3",
-        "name": "Broderick Wray",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "6EY3IQZIOH33MQ9B",
+        "name": "Vena Alves",
+        "type": "Google",
         "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "3TBN4AG1JG81VCI5",
-        "name": "Jonna Tellez",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "4"
+        "id": "7PKLQ72QPQ00EIIE",
+        "name": "Debra Loftis",
+        "type": "Amazon",
+        "field_1": "3",
+        "field_2": "2"
     },
     {
-        "id": "XSKQQ1Z1GI4AN5EV",
-        "name": "Juliet Bock",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
+        "id": "LC43YHB7MCPS93JQ",
+        "name": "Verna Eagle",
+        "type": "Google",
+        "field_1": "4",
         "field_2": "3"
+    },
+    {
+        "id": "G01GQTS3SP6KDVS5",
+        "name": "Sal Toney",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "1"
     },
     {
-        "id": "UT5B4GVB3O6MVI6F",
-        "name": "Gabriele Kimbrell",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "QIUGU8V8V8N9A1SS",
+        "name": "Maryln Ball-Kemp",
+        "type": "Google",
         "field_1": "2",
-        "field_2": "3"
+        "field_2": "1"
     },
     {
-        "id": "H3PNQF99DNYK2PPJ",
-        "name": "June Tejada",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "9MD83R0LPJY0EX6P",
+        "name": "Jason Duckett-Glasgow",
+        "type": "Google",
         "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "8X316ME21H9G5SLM",
-        "name": "Vito Lennon",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "3"
+        "id": "PG2UFV4H3PTAC9VO",
+        "name": "Jazmine Hoffman",
+        "type": "Google",
+        "field_1": "2",
+        "field_2": "1"
     },
     {
-        "id": "PASE1PIIYB5PKDQQ",
-        "name": "Demetra Griffiths",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "3"
+        "id": "KP95LO7ZVTJCZKIT",
+        "name": "Jana Lincoln",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "1"
     },
     {
-        "id": "M3PHTDJER7835Q1U",
-        "name": "Sanjuana Rollins",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "4"
+        "id": "E7JC1S0GO98DATTT",
+        "name": "Reginia Davenport",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "3"
     },
     {
-        "id": "M2FIMVNSQU2QRDCL",
-        "name": "Arie Hathaway",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "OO5BECHQM3671OX9",
+        "name": "Nery Riddick",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "1"
+        "field_2": "4"
     },
     {
-        "id": "PQR1VDSDFADB8VDP",
-        "name": "Heath Shafer",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "ALR27BQT3HRDFC30",
+        "name": "Karrie Green",
+        "type": "Google",
         "field_1": "2",
         "field_2": "1"
     },
     {
-        "id": "O1HU5VK93F677AGB",
-        "name": "Neil Thomson",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "07QODQLT96ITMDK6",
+        "name": "Yasuko Halsey",
+        "type": "Amazon",
         "field_1": "2",
         "field_2": "3"
     },
     {
-        "id": "EGRIMHQ7FE92MCIN",
-        "name": "Daphne Sams",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "K5OF9EM8OJQVBYZJ",
+        "name": "Will Mcarthur",
+        "type": "Google",
+        "field_1": "4",
         "field_2": "1"
     },
     {
-        "id": "8DQX2V7LXH9NT869",
-        "name": "Terina Thorn",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "1"
+        "id": "OMBHOF9SCGIYS231",
+        "name": "Elvira Haugen",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "3"
     },
     {
-        "id": "S7YAJAZNLS21040B",
-        "name": "Liza Trout",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "7KRPRB2TO5PREY91",
+        "name": "Enedina Hornsby",
+        "type": "Google",
         "field_1": "2",
-        "field_2": "1"
+        "field_2": "4"
     },
     {
-        "id": "YU42TQIUNVBBK9CU",
-        "name": "Merrilee Fairbanks",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "V2Y1O04YG86VT0L7",
+        "name": "Pamula Liles",
+        "type": "Amazon",
         "field_1": "4",
         "field_2": "4"
     },
     {
-        "id": "5D1NAKU4K7CO2GRQ",
-        "name": "Clay Tolley",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "1"
+        "id": "TS8OLZ9N654DSS11",
+        "name": "Ayanna Sullivan",
+        "type": "Amazon",
+        "field_1": "4",
+        "field_2": "4"
     },
     {
-        "id": "QHQ062BKD7TI5BSV",
-        "name": "Jannet Serna",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "2I2Q6NJOIKVCH8V5",
+        "name": "Winford Ness",
+        "type": "Amazon",
         "field_1": "3",
         "field_2": "3"
     },
     {
-        "id": "0LOO7JZP9BNVG1GU",
-        "name": "Etsuko Burdick",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "3"
+        "id": "KLZ456T0Q7O3SQDO",
+        "name": "Brittany Finnegan",
+        "type": "Google",
+        "field_1": "1",
+        "field_2": "2"
     },
     {
-        "id": "QZOYAB3B0TXREZ9O",
-        "name": "Kalyn Lapointe",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "BRC8UYH13NLPR2XH",
+        "name": "Chi Saddler",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "2"
+        "field_2": "4"
     },
     {
-        "id": "5Q958N7DH741S7V8",
-        "name": "Lennie Sexton",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "NGTZZLBQ1CJ57QQ5",
+        "name": "Ron Cooley",
+        "type": "Amazon",
+        "field_1": "4",
         "field_2": "4"
     },
     {
-        "id": "12D8QFVL377QXPJ3",
-        "name": "Tiffaney Coker",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "91GL8M3ZEGY9AV9L",
+        "name": "Maria Ortega",
+        "type": "Google",
         "field_1": "3",
-        "field_2": "2"
-    },
-    {
-        "id": "8JYP3XKXIA8Z5V11",
-        "name": "Domenic Snow",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "4"
+        "field_2": "1"
     },
     {
-        "id": "8A6Y6QYG4XR3UNEV",
-        "name": "Tamika Rivers-Smothers",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "5PNA5BJ9QM500XDJ",
+        "name": "Gloria Moriarty",
+        "type": "Google",
         "field_1": "1",
-        "field_2": "4"
-    },
-    {
-        "id": "AK1KIMQC5XL6MTGE",
-        "name": "Lashell Blum",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
         "field_2": "3"
     },
     {
-        "id": "L4S84IXSO722M8OQ",
-        "name": "Hertha Denney",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "L7EI590J7BEMQQ98",
+        "name": "Latoria Roush",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "4"
+        "field_2": "1"
     },
     {
-        "id": "JQXE5SCM63HJ7IX6",
-        "name": "Eloise Peoples",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
+        "id": "P652MQ39SUFMJ6PR",
+        "name": "Kellye Coyle-Levine",
+        "type": "Google",
+        "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "26PXX3GHNHLABM1Y",
-        "name": "Lisa Chiu",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "1"
+        "id": "ZTYX7PPVSG6QZESC",
+        "name": "Neal Flowers",
+        "type": "Amazon",
+        "field_1": "2",
+        "field_2": "3"
     },
     {
-        "id": "YQGAO9VSXT4ZGBXZ",
-        "name": "Kathy Kenny",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "2"
+        "id": "TFQ2JEOAQ52EJYJ3",
+        "name": "Ava Stinnett",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "3"
     },
     {
-        "id": "006PPKUEM4A23XRZ",
-        "name": "George Blaylock",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "JOHZK1ML4QS5SGPX",
+        "name": "Shirley Loftus",
+        "type": "Amazon",
         "field_1": "4",
-        "field_2": "2"
+        "field_2": "4"
     },
     {
-        "id": "A76SZ6JZMHY4Q4Q4",
-        "name": "Roma Conte",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "HQBHP5JFIEQKR1YO",
+        "name": "Monet Lin-Crenshaw",
+        "type": "Google",
         "field_1": "1",
         "field_2": "1"
     },
     {
-        "id": "QOAIBI8EGJVP5OMQ",
-        "name": "Helaine Shell",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "QFRM74RYQ8A0FA92",
+        "name": "Dyan Fitzsimmons",
+        "type": "Google",
         "field_1": "2",
         "field_2": "1"
-    },
-    {
-        "id": "S7LBHKD7LJ7AOO8Y",
-        "name": "Lean Michael",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "3"
     },
     {
-        "id": "CUMQTFCKR2IXEX33",
-        "name": "Kristen Oneil",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "PPCSXQJNQ9A79YG4",
+        "name": "Darius Desimone",
+        "type": "Google",
         "field_1": "4",
-        "field_2": "1"
+        "field_2": "4"
     },
     {
-        "id": "5KPQQL5U6A8ZZOKP",
-        "name": "Gerard Pomeroy",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "2U0ADM1672QC24S6",
+        "name": "Bob Clemens",
+        "type": "Amazon",
         "field_1": "2",
-        "field_2": "2"
+        "field_2": "3"
     },
     {
-        "id": "25LANUKS5X598PQV",
-        "name": "Eladia Tabor",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "DDUASHP4N1J45P55",
+        "name": "Rod Mcadams",
+        "type": "Google",
+        "field_1": "4",
         "field_2": "2"
-    },
-    {
-        "id": "G8KTKVYQ18LXIZIP",
-        "name": "Charleen Fry",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "4"
-    },
-    {
-        "id": "AZK9Q61V39SLVPLB",
-        "name": "Allyson Clarkson",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "1"
-    },
-    {
-        "id": "GQRMJF3T0JAPUFE8",
-        "name": "Al Stoddard",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
-        "field_2": "1"
     },
     {
-        "id": "CL2ELUDGVD9SNIOB",
-        "name": "Shaniqua Kenyon",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "YGFDYBVYRDYE0JXY",
+        "name": "Petrina Massey",
+        "type": "Amazon",
         "field_1": "2",
         "field_2": "4"
     },
     {
-        "id": "Q2KCAGPQ4NHKN58G",
-        "name": "Juli Atchison",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "2"
+        "id": "U5CA6UNTV42MU34L",
+        "name": "Odelia Goff",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "3"
     },
     {
-        "id": "FTQMIVTQP7PYIQKM",
-        "name": "Karleen Pulliam",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "DB2PRQEKFSH9PQCZ",
+        "name": "Ardis Kuykendall",
+        "type": "Amazon",
         "field_1": "3",
-        "field_2": "4"
+        "field_2": "3"
     },
     {
-        "id": "OZU3K00U3SKC7PPL",
-        "name": "Vaughn Casanova",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "ZHJDI2SFC96L4DR0",
+        "name": "Donetta Brinson",
+        "type": "Google",
         "field_1": "3",
         "field_2": "3"
     },
     {
-        "id": "OM4XQXVV8VISQU37",
-        "name": "Golden Rivas",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "2"
+        "id": "3HF3M22I9QH57FZI",
+        "name": "Mistie Cate",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "1"
     },
     {
-        "id": "QHZXM57ROJQG02NS",
-        "name": "Pete Hook",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "MQJGH5Z8F1G86ZE6",
+        "name": "Cherie Mcneil",
+        "type": "Google",
         "field_1": "4",
         "field_2": "3"
     },
     {
-        "id": "N1QXXUY6QXV3SKMR",
-        "name": "Jamal Croft",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
+        "id": "B2ZZQ830HBGDI2CZ",
+        "name": "Stuart Santana",
+        "type": "Google",
+        "field_1": "2",
         "field_2": "2"
     },
     {
-        "id": "7NTCQB5MSCATEC74",
-        "name": "Yetta Jeffries",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "4"
+        "id": "0V5KSE4E9T0I39VI",
+        "name": "Otilia Roundtree",
+        "type": "Google",
+        "field_1": "3",
+        "field_2": "3"
     },
     {
-        "id": "N2R8ZTBEOYUFNFFR",
-        "name": "Jean Hicks",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "UVBXD8A4QB54KY22",
+        "name": "Lisabeth Duffy",
+        "type": "Google",
         "field_1": "3",
         "field_2": "4"
     },
     {
-        "id": "PL2QJQS9UAQKSVEB",
-        "name": "Norbert Reitz",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "4"
+        "id": "RH47S2TPNIA1VTSB",
+        "name": "Michelina Surratt",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "3"
+    },
+    {
+        "id": "61E864C9NO4ETG3Z",
+        "name": "Lora Nelson",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "1"
     },
     {
-        "id": "7IQQQQNQ5H1AEV9D",
-        "name": "Adele Cahill",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "AB5E8SFNEODQPRQA",
+        "name": "Felecia Bell",
+        "type": "Amazon",
         "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "OZHUQKI9FIDYR1AP",
-        "name": "Cassy Fincher",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "PQ9KVFFUQLSJ3EAK",
+        "name": "Brittney Kyle",
+        "type": "Google",
         "field_1": "4",
+        "field_2": "2"
+    },
+    {
+        "id": "G9EQMSB6NGG6RHQJ",
+        "name": "Lera Bryan",
+        "type": "Amazon",
+        "field_1": "2",
         "field_2": "3"
     },
     {
-        "id": "XVLHQ4TMBPJ4D91S",
-        "name": "Illa Denning",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "3",
+        "id": "VCGBCYAOI7QYPQEA",
+        "name": "Rudolph Fontenot",
+        "type": "Google",
+        "field_1": "2",
         "field_2": "1"
     },
     {
-        "id": "307SU72A4UT6EMAK",
-        "name": "Domitila Limon",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "R1XMIL9RS56JANZJ",
+        "name": "Sally Rosen",
+        "type": "Google",
         "field_1": "3",
-        "field_2": "4"
-    },
-    {
-        "id": "Z5QE2HL0HGLV22AL",
-        "name": "Meryl Swope",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "1"
+        "field_2": "3"
     },
     {
-        "id": "AE1U55A4IFNE4FCP",
-        "name": "Tonja Lemus",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "SKHPN35SGDYNGOG5",
+        "name": "Adolph Cornell",
+        "type": "Amazon",
         "field_1": "3",
-        "field_2": "4"
+        "field_2": "3"
     },
     {
-        "id": "1VLF2HTCQGGFTVGT",
-        "name": "Cayla Cobbs",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "5YC1PC9QTHRJHX1O",
+        "name": "Buffy Desjardins",
+        "type": "Google",
         "field_1": "3",
         "field_2": "1"
-    },
-    {
-        "id": "IYB6HXQSEPQIKFF5",
-        "name": "Marcelo Link",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "3"
     },
     {
-        "id": "F57PIOH15P7OAE28",
-        "name": "Ciera Gallegos",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "4"
+        "id": "16QVQY7KZTKZOS89",
+        "name": "Fredericka Shipley",
+        "type": "Amazon",
+        "field_1": "1",
+        "field_2": "2"
     },
     {
-        "id": "78T94T3YQECHXCYH",
-        "name": "Gwenda Mitchel",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
+        "id": "J4FJKCV7KX3A4SLT",
+        "name": "Suellen Goetz",
+        "type": "Amazon",
+        "field_1": "3",
         "field_2": "1"
     },
     {
-        "id": "QP5G9QEAZ5ORRQ62",
-        "name": "Ila Mcqueen",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "Q868SA5PBL8HU3QQ",
+        "name": "Saul Reddy-Richardson",
+        "type": "Amazon",
         "field_1": "1",
-        "field_2": "3"
-    },
-    {
-        "id": "RH2OJ9KN31X3SOYS",
-        "name": "King Bostic",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
         "field_2": "2"
     },
     {
-        "id": "81YOQMLRSOFXDY8Y",
-        "name": "Santiago Nall",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "FA6ENCY7UINQDU9I",
+        "name": "Nadia Mccloskey",
+        "type": "Google",
         "field_1": "1",
-        "field_2": "3"
+        "field_2": "2"
     },
     {
-        "id": "PIST7RQ2CLK3CVM4",
-        "name": "Robt Maldonado",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "ILSJ1YOTUB1PBIFP",
+        "name": "Lowell Nestor",
+        "type": "Google",
         "field_1": "3",
-        "field_2": "1"
+        "field_2": "4"
     },
     {
-        "id": "43FI61JFPIHREXXN",
-        "name": "Porsche Eng",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "5M10MQDQ8J76ESGV",
+        "name": "Lamont Yancey",
+        "type": "Google",
         "field_1": "3",
         "field_2": "3"
-    },
-    {
-        "id": "8MOT5PFZ68RISN9F",
-        "name": "Andrew Matteson",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "4"
     },
     {
-        "id": "QI0JJFIGM4QN9463",
-        "name": "Malik Utley",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "QP7AXFXEKCOP0BUJ",
+        "name": "Cherie Schmitt",
+        "type": "Google",
         "field_1": "1",
-        "field_2": "4"
-    },
-    {
-        "id": "GJ40L4SO64HLLXXK",
-        "name": "Su Seay",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "3"
+        "field_2": "2"
     },
     {
-        "id": "SYVFK680LDBXBO1B",
-        "name": "Lesha Appleton",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "BOHXLD753JHQE8AG",
+        "name": "Sarita Counts",
+        "type": "Amazon",
         "field_1": "1",
         "field_2": "4"
     },
     {
-        "id": "4X77VCL5X04D81X5",
-        "name": "Damien Swan",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "1",
-        "field_2": "3"
+        "id": "CHGE1Q4NOI4FGDGN",
+        "name": "Emil Lorenzo",
+        "type": "Google",
+        "field_1": "2",
+        "field_2": "2"
     },
     {
-        "id": "B5GM31FPK2AE8ZZB",
-        "name": "Sonya Beavers",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "D39Q4I59ZL4G0I4Q",
+        "name": "Vernice Mercado",
+        "type": "Amazon",
         "field_1": "3",
-        "field_2": "1"
-    },
-    {
-        "id": "QSBONXRJTI71OAAC",
-        "name": "Bronwyn Baumgartner",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
         "field_2": "2"
     },
     {
-        "id": "8CGNDAQD2AJKQXH2",
-        "name": "Kendra Kennedy",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "2",
-        "field_2": "3"
+        "id": "BFQGRNDLACOCIZ7K",
+        "name": "Chere Desjardins",
+        "type": "Google",
+        "field_1": "4",
+        "field_2": "1"
     },
     {
-        "id": "171I708PYQ4AE5KR",
-        "name": "Martine Peter",
-        "type": "{{oneOf Amazon Google}}",
+        "id": "46SGOS9FDYFIC5YY",
+        "name": "Joya Mcdougall",
+        "type": "Google",
         "field_1": "1",
-        "field_2": "3"
-    },
-    {
-        "id": "YBTOQMXPCYD0VG7F",
-        "name": "Kathline Falk",
-        "type": "{{oneOf Amazon Google}}",
-        "field_1": "4",
-        "field_2": "2"
+        "field_2": "4"
     }
 ]
 
